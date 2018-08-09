@@ -1,0 +1,1000 @@
+﻿васильев антон владимирович	+79276680737	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428024	Чебоксары	Мира	76
+Свидерский Андрей Жаннович	+79065196231	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214020	Смоленск	Смольянинова	15
+Ким Виктор Аркадьевич	+7 (963)975-53-85	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119602	Москва	Академика Анохина	26
+бархатов Дмитрий михайлович	89500774893	NULL	NULL	NULL	NULL	NULL	NULL	NULL	664081	Иркутск	Трудовая	126
+Смирнов Роман	+7 (812) 3274092	NULL	NULL	NULL	NULL	NULL	NULL	NULL	197046	Санкт-Петербург	М Пасадская	17
+Августинович Дмитрий Сергеевич	+7(9260654226	NULL	NULL	NULL	NULL	NULL	NULL	NULL	172530	Белый	загородная	5
+Эрлих ВладимирАнатольевич	89635090010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	659300	Бийск	КОММУНАРСКИЙ	16
+Ангельчев Сергей	+7 (925) 8785322	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607150	Мухтолово	2-я Зеленая	13
+Лилия Васильевна	+7(909) 5628585	NULL	NULL	NULL	NULL	NULL	NULL	NULL	184606	Североморск	Ул. Комсомольская	4
+Фатеев Юрий Леонидович	89039487673	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656000	Барнаул	Гущина	154
+Петькова Татьяна Юрьевна	89616860391	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400011	Волгоград	Светогорская	26
+Куприсов Антон Александрович	89618761075	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630049	Новосибирск	дуси ковальчук	185
+Таранов Алексей Иванович	+79278155332	NULL	NULL	NULL	NULL	NULL	NULL	NULL	432000	Ульяновск	Димитровградское	8
+Жеребцов Михаил Петрович	+7 (3512) 171617	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454008	Челябинск	Комсомольский	2
+Куличков вЛАДИМИР	+7(920)0735492	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607700	Шатки	ЛЕНИНА	98
+Арутюнян Карапет Артемович	89826389998	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620026	Екатеринбург	Белинского	86
+Вальпа Максим Олегович	+79126415141	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620036	Екатеринбург	Бебеля	126
+Кастерин Алексей Валерьевич	89180907432	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350000	Краснодар	тепличная	16
+Володин Александр иванович	89117411830	NULL	NULL	NULL	NULL	NULL	NULL	NULL	186004	Санкт-Петербург	академическая	11
+Артем Владимирович Пиндюрин	+7(918) 5186833	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346000	Чертково п.п.	фрунззе	47
+Магомедов Магомед Загидшарипович	+79643177420	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606407	Балахна	Дзержинского	2г
+Казимиров Андрей Андреевич	+7 (960) 9829421	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142100	Подольск	курская	4
+Саваев Виталий Витальевич	+7(928)8252973	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357380	Юца	новая	88
+Борзов Максим Александрович	89378180552	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410064	Саратов	электронная	11
+Носкова Наталья	9263395170	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127566	Москва	Северный бульвар	17
+Абдурахманов Виталий А.	9270663316	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400137	Волгоград	30-летия победы	20
+Полоцкий Артем Валерьевич	+79503394580	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644058	Омск	Молодогвардейская	1
+Клюжев Андрей Витальевич	+7 (8362) 451250	NULL	NULL	NULL	NULL	NULL	NULL	NULL	424006	Йошкар-Ола	Соловьева	18
+Родионов Евгений Александрович	89052783214	NULL	NULL	NULL	NULL	NULL	NULL	NULL	188820	Санкт-Петербург	Привокзальная	2
+Кузьмицкая Ксения Владимировна	9214368010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198329	Санкт-Петербург	Добровольцев	14
+Кайбышев Алексей Анатольевич	+79609630673	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656006	Барнаул	Малахова	140
+Сухомлинов Максим Владимирович	+7 (495) 6603060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109125	Москва	Васильцовский стан	11
+Рагуля василий владимирович	89604939720	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142500	Павловский Посад	Каляева	7
+Иванова Анастасия Геннадьевна	89165514584	NULL	NULL	NULL	NULL	NULL	NULL	NULL	194358	Санкт-Петербург	Хошимина	16
+MAKOВЕЕВ ПЕТР НИК	+7(903)6185588	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123592	Москва	кулакова	15
+Кукушко Алексей	8-920-958-89-88	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390000	Рязань	1-ые Бутырки	40
+димныч андрей григорьевич	89263245771	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117574	Москва	голубинская	15/10
+Белоусова Светлана Генадьевна	89279863696	NULL	NULL	NULL	NULL	NULL	NULL	NULL	433513	Димитровград	Первомайская	66
+МОИСЕЕВ РОМАН НИКОЛАЕВИЧ	+7(999)1622494	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423239	Бугульма	ТУХАЧЕВСКОГО	4
+Ушаков Михаил Владимирович	+7(918) 4181920	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352432	Курганинск	шоссейная	1
+Семёнов Александр Евгеньевич	9053762352	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420124	Казань	вахитова	5
+Чукардин Геннадий Николаевич	89038726677	NULL	NULL	NULL	NULL	NULL	NULL	NULL	306700	Касторное	50 лет Октября	2
+Клим	+7 (34141) 59302	NULL	NULL	NULL	NULL	NULL	NULL	NULL	427627	Глазов	Юкаменская	37
+Демин андрей андреевич	+7(911) 0288983	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198099	Санкт-Петербург	нахимова	1
+Ольга Павловна	+7 (922) 1092696	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623701	Березовский	Западная промзона	24
+Суворов Сергей Петрович	89209017854	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601911	Ковров	лесная	34
+Сергей Минаев	89262156196	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142400	Ногинск	Белякова	25
+Дик Ирина Леонидовна	+7 (343) 8433333	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624440	Краснотурьинск	Карла Маркса	28/19
+Казанов А.Л	+7 (911) 0902214	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187110	Кириши	Героев	18
+карманова татьяна сергеевна	8-9122418601	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620028	Екатеринбург	мельникова	20
+Силкин Алексей Сергеевич	89202406402	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399770	Елец	Орджоникидзе	16
+Еремеева Ольга Юрьевна	89282275777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344015	Ростов-на-Дону	339-ой Стрелковой Дивизии	25
+Старынин Сергей Игоревич	+7(910) 8832296	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606000	Дзержинск	Грибоедова	35
+Астапенко Александр Николаевич	+7 (915) 4744460	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142205	Серпухов	Текстильная	11
+Могорян Евгений Федорович	+79650354190	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198332	Санкт-Петербург	ленинский	92
+Антонов Антон	+7 (916) 4718883	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142030	Ям	связистов	12
+Боровских Алексей	+7 (905) 9958866	NULL	NULL	NULL	NULL	NULL	NULL	NULL	652992	Таштагол	солнечная	52
+костыгин александар вячеславович	89518096725	NULL	NULL	NULL	NULL	NULL	NULL	NULL	sanya.kost	Челябинск	1 мая	132
+нури	+7(911) 7251706	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195269	Санкт-Петербург	луночарского	92
+Нестеров Андрей Олеговия	+79219421440	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196601	Санкт-Петербург	Малая	12
+песков дмитрий владимирович	+79212565718	NULL	NULL	NULL	NULL	NULL	NULL	NULL	162600	Череповец	Рыбинская	20
+Дмитрий Домнин	89063309346	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423800	Набережные Челны	Набережная Тукая	27
+Анастасия Фомина	89103989191	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606407	Балахна	Дзержинского	32
+Азизов Рустам Вахпиевич	+77017634848	NULL	NULL	NULL	NULL	NULL	NULL	NULL	050026	Алматы	карасай батыра	152
+Гусева Елена Васильевна	+7 988 0061382	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400123	Волгоград	иколая Отрады	16
+Борздых Павел Николаевич	89083139966	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644047	Омск	6-я Ремесленая	56
+анпилогов сергей викторович	79000533130	NULL	NULL	NULL	NULL	NULL	NULL	NULL	652431	Барзас	октябрьская	5
+Хусаинов Ильназ Рафисович	+7(85592) 51901	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423330	Азнакаево	Лениногорский	5
+дубровин сергей николаевич	89397019791	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445037	Тольятти	фрунзе	14
+Вадим Геннадьеви	+79606752223	NULL	NULL	NULL	NULL	NULL	NULL	NULL	305016	Курск	Павлуновского	3
+Басков Александр Викторович	8-913-516-7773	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660099	Красноярск	Ады Лебедевой	64
+Мальцев Сергей  Вениаминович	+7 (922) 6727273	NULL	NULL	NULL	NULL	NULL	NULL	NULL	640014	Курган	Пархоменко	9
+Парфёнов Андрей Сергеевич	+7 (982) 1074342	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456211	Златоуст	квартал Металлист	5
+МАЦУК АЛЕКСЕЙ ВЛАДИМИРОВИЧ	+7 (904) 3644005	NULL	NULL	NULL	NULL	NULL	NULL	NULL	215500	Сафоново	Советская	2
+Александр Владимирович Федоров	89642416988	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454085	Челябинск	Танкистов	148
+Булычев Андрей	+7 (925) 7715075	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142800	Ступино	Калинина	34а
+Цюзь Илья Юрьевич	+7(952)1300008	NULL	NULL	NULL	NULL	NULL	NULL	NULL	629320	Новый Уренгой	Октябрьская	6
+Попович Юлия Михайловна	89372307038	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445044	Тольятти	Космонавтов	14
+Коробов Сергей Анатальевич	89289007747	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344058	Ростов-на-Дону	Коммунистический	38
+Леденёв Анатолий Алексеевич	+7 (905) 6836305	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399900	Чаплыгин	советская	5
+Артеменко Александр Михайлович	+7 (966) 1370856	NULL	NULL	NULL	NULL	NULL	NULL	NULL	144001	Электросталь	Строительный	5
+Бородина Оксана Владимировна	+79097171240	NULL	NULL	NULL	NULL	NULL	NULL	NULL	612613	Киров	советская	2
+захарова любовь петровна	9803225495	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309530	Старый Оскол	олимпийский	7
+Sokolov Anton Andrev	89179212033	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420097	Казань	Зинина	15
+Светлана Вадимовна	89605048398	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153012	Иваново	переулок Свободный	17
+Климов Александр Владимирович	+7 (831) 4168667	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603163	Нижний Новгород	Хохлова Александра	1
+Алтухов Александр Валерьевич	+7 (960) 0784664	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423827	Набережные Челны	Мира	90
+Ефанов Михаил	89192658710	NULL	NULL	NULL	NULL	NULL	NULL	NULL	303851	Ливны	Денисова	7
+Дмитренко Эдуард Иванович	+7(863) 2305406	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344068	Ростов-на-Дону	немировича данченко	26
+Глущук Михаил Игоревич	89514139017	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644012	Омск	малиновского	14
+Сергей Иванович Самсоненко	+7 (927) 3226010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453400	Давлеканово	пушкина	5
+Мансуров Ильфат	84957450546	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141101	Щелково	Zavodskaya	2
+белогорцева валентина егоровна	89618540345	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352375	Краснодар	молодежная	52а
+Плотников Максим Юрьевич	89781323244	NULL	NULL	NULL	NULL	NULL	NULL	NULL	295053	Симферополь	матэ залки	1
+Щербаков Александр Игоревич	+7(903)4321215	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346132	Миллерово	Т.Шевченко	111
+толстых сергей александрович	+7 (920)5672747	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308036	Белгород	конева	5
+Карасев Александр Владимирович	+79102540911	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399782	Елец	Черокманова	23
+Курочкин Максим Вячеславович	89851601413	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140013	Люберцы	Попова	24
+Беленя Дмитрий	+79082124248	NULL	NULL	NULL	NULL	NULL	NULL	NULL	662155	Ачинск	4 м-он Привокзального района	3
+Кабанов Андрей Викторович	+7(987)3236192	NULL	NULL	NULL	NULL	NULL	NULL	NULL	413111	Энгельс	Краснодарская	9
+Грибов Виктор Юрьевич	+79040911400	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309310	Ракитное	новосадовая	5
+Виноградова Алена Павловна	89159437778	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603028	Нижний Новгород	Московское шоссе	217
+Парамонова Ольга Николаевна	+79097842125	NULL	NULL	NULL	NULL	NULL	NULL	NULL	236029	Калининград	Адмирала Макарова	5
+Татьяна, Антонина	+7 (473) 2398118	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394038	Воронеж	Пешестрелецкая	54
+Сппиридонов Владимир Анатольевич	89168140223	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140053	Котельники	3-й покровский	2
+Уртюков Владимир Николаевич	+7(903)6026072	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603027	Нижний Новгород	Коновалова	9
+Савлев Михаил петрович	+380503132156	NULL	NULL	NULL	NULL	NULL	NULL	NULL	14033	Чернигов	инструментальная	7
+Спиридонова Олеся Александровна	+7(8432) 920059	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420021	Казань	Зайни Султана	12
+Смольков Андрей Михайлович	+7(937) 4048000	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440014	Пенза	ул. Ягодная 39	39
+Ким сергей Григорьевич	89004743224	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347027	Синегорский	Юбилейный	5
+Жовнер Никита	+7 (3519) 286060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	455051	Магнитогорск	Труда	25
+Алексеев Антон Сергеевич	+79774388740	NULL	NULL	NULL	NULL	NULL	NULL	NULL	172025	Тверь	д. Бубеньево	29
+Татарников Андрей Сергеевич	89134825736	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630553	Новолуговое	андреева	169
+Поляков  Дмитрий Викторович	+7 (8142) 569073	NULL	NULL	NULL	NULL	NULL	NULL	NULL	185013	Петрозаводск	Луговая	8
+Щербакова Елена Н колаевна	89273705761	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440012	Пенза	Летняя	19
+Максим Селиванов	89298511110	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350056	Краснодар	дорожный	4
+Согоян Армен Степанович	89105542020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	300000	Тула	Одоевское	102
+Жигалкин Алексей	+7(929)0354321	NULL	NULL	NULL	NULL	NULL	NULL	NULL	305025	Курск	Магистральный 18	30
+Секисов Артур Эдуардович	+79105686576	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390048	Рязань	Зубковой	21
+Сиденёв Константин Евгеньевич	89193478576	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456120	Юрюзань	Кричная	52
+Луканов Павел	+7 (48424) 400808	NULL	NULL	NULL	NULL	NULL	NULL	NULL	249833	Кондрово	Интернациональная	14
+Азаренков Валерий	+7(903)0118801	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141406	Химки	Совхозная	4
+Стольникова Е.А.	+7(923) 1372317	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630559	Новосибирск	Технопарковая	5
+Черный Андрей Пантелеевич	89384404111	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350007	Краснодар	станкостроительная	20
+Пахомов Николай Владимирович	89056068105	NULL	NULL	NULL	NULL	NULL	NULL	NULL	172530	Белый	Мелиоративная	16
+Мажаров Сергей Александрович	+7 (9061847777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346270	Ростов-на-Дону	Есенина	58
+Жуйков Дмитрий Михайлович	+79869175106	NULL	NULL	NULL	NULL	NULL	NULL	NULL	426057	Набережные Челны	Раиса Беляева	16
+ООО МТ-Холдинг	+79834205060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	670000	Улан-Удэ	Революции 1905 г.	42
+Генадий	89025347102	NULL	NULL	NULL	NULL	NULL	NULL	NULL	670003	Улан-Удэ	Дивизионная	943
+Тюменцев Денис Васильевич	+7(961) 7801672	NULL	NULL	NULL	NULL	NULL	NULL	NULL	627751	Ишим	Курганская	95
+Миниахметов Дамир	89174119588	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450047	Уфа	Бакалинская	23
+Курмашев Кайрат Абаевич	+7(31122) 252623	NULL	NULL	NULL	NULL	NULL	NULL	NULL	090608	Уральск	Кызылжарская	13
+Зеленская Алёна Юрьевна	89682645533	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355018	Ставрополь	Руставели	141
+Кузнецова Наталья	+7 (917) 5137176	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140402	Коломна	Чкалова	24а
+Булгадаров Т.А.	+7 (916) 8243406	NULL	NULL	NULL	NULL	NULL	NULL	NULL	220007	Минск	Воронянского 27-18	27
+Дрыков Александр Николаевич	89621562452	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153521	Иваново	радужная	14
+Максачева Наталия Дмитриевна	+79023003906	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603003	Нижний Новгород	Станционная	60
+корнев александр владимирович	89255483702	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125413	Москва	Флотская	82/6
+Малых Антон Сергеевич	89235207272	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650002	Кемерово	Институтская	12
+Григорьев Евгений Сергеевич	+7 (988) 5710506	NULL	NULL	NULL	NULL	NULL	NULL	NULL	295000	Симферополь	Карла Маркса	44
+Муллаханов Тимур Ахнафович	+79273750355	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440026	Пенза	красная	74
+тухватуллин ильдар фэатевич	+7 (927) 4129723	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420091	Казань	5 муромская	104
+Багдалова Людмила Константиновна	89822282815	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628414	Сургут	Крылова	25
+Мавлатов Асланбек Авханович	89104999393	NULL	NULL	NULL	NULL	NULL	NULL	NULL	364031	Грозный	1-й пер. Джамбула	21а
+самолина екатерина михайловна	89061392502	NULL	NULL	NULL	NULL	NULL	NULL	NULL	424007	Йошкар-Ола	чернякова	7
+Россеев Алексей Андревич	+79262548959	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109548	Москва	Кухмистерова	3
+Никитин Олег Робензонович	+79373776995	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428015	Чебоксары	с.михайлова	1
+Бастрыкин Антон Игоревич	+79062230690	NULL	NULL	NULL	NULL	NULL	NULL	NULL	414056	Астрахань	Татищева	16
+Халимова Светлана Владимирова	+79223946777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625046	Тюмень	широтная	156
+Дыхта Станислав Евгеньевич	+74957084487	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127566	Москва	Алтуфьевское шоссе	44
+Жданов Сергей Владимирович	+79214679836	NULL	NULL	NULL	NULL	NULL	NULL	NULL	185014	Петрозаводск	Древлянка	24
+И.П. Гусева	+7 (911) 3601959	NULL	NULL	NULL	NULL	NULL	NULL	NULL	182620	Порхов	Псковская	14
+Шестера Максим Михайлович	89231196310	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630112	Новосибирск	Ипподромская	32
+Ложкин Борис	89162906899	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170024	Тверь	Бобкова	24
+Яворский Владимир Анатольевич	89179164151	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420088	Казань	Азинская 2-я	7
+митракович василий александрович	+79272104952	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445009	Тольятти	Некрасова проезд	49
+Виктор Григорьевич Выходцев	89055453707	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111024	Москва	Энтузиастов	17
+Пянтеев Александр Викторович	9158345565	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153022	Иваново	Володарского	43
+Блоха Ю.И.	89296193262	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125486	Москва (МКАД 94 км)	Планерная	16
+Анна Лазорив	89262109325	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109004	Москва	А. Солженицына	14
+Корзан Владимир Сергеевич	89199590990	NULL	NULL	NULL	NULL	NULL	NULL	NULL	627300	Тюмень	Победы	25
+Афонин Сергей Сергеевич	89534344446	NULL	NULL	NULL	NULL	NULL	NULL	NULL	3ooo45	Тула	Кауля	11
+Иванова Амина Байеновна	+77017662319	NULL	NULL	NULL	NULL	NULL	NULL	NULL	050000	Алматы	ОСПАНОВА	124Г
+Черников Дмитрий Юрьевич	89768536929	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620033	Екатеринбург	п.Иртышский	3
+Мамчуев Умар Смагилович	+7 (961) 4528020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355003	Ставрополь	Краснофлотская	15
+Иавнов Владимир Григорьевич	89278120846	NULL	NULL	NULL	NULL	NULL	NULL	NULL	432048	Ульяновск	Водопроводная	48
+Ворушилин Никита Александрович	+7(912)3013810	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454003	Челябинск	Петра Сумина	24
+Максимова Елена Павловна	+7(912)9754398	NULL	NULL	NULL	NULL	NULL	NULL	NULL	641870	Шадринск	Крестьянская	28
+Амбарцумов Арсен Львович	79179956741	NULL	NULL	NULL	NULL	NULL	NULL	NULL	431444	Рузаевка	Кольцова	3
+КудашовПС	+7 (927) 6342226	NULL	NULL	NULL	NULL	NULL	NULL	NULL	432059	Ульяновск	киевский	4
+КудашовCС	+7 (927) 6342226	NULL	NULL	NULL	NULL	NULL	NULL	NULL	432059	Ульяновск	киевский	4
+Ермаков Кирилл	+7(926)0919721	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125284	Москва	Беговая	7
+Алагулов Игорь	+7(3812) 711787	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644073	Омск	2-я Солнечная	50-а
+Алагулов Игорь Геннадьевич	+7(3812) 711787	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644073	Омск	2-я Солнечная	50-а
+Бышко Александр Владимирович	+7 (812) 7010025	NULL	NULL	NULL	NULL	NULL	NULL	NULL	197376	Санкт-Петербург	Чапыгина	6
+борисов александр игоревич	+79857617499	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140100	Раменское	перелета	3
+Юдин Константин	+7(812)9836115	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187323	Павлово	Советская	3
+Шарафутдинов Радик Рафагатович	89374878168	NULL	NULL	NULL	NULL	NULL	NULL	NULL	452610	Октябрьский	Космонавтов	59
+Мокшанцев Сергей Владимирович	89297663020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440028	Пенза	Леонова	20
+Останина Ольга Сергеевна	+7 (3433) 833226	NULL	NULL	NULL	NULL	NULL	NULL	NULL	641730	Далматово	Попова	11
+наботов махмад идиевич	+7(960) 2009669	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173008	Великий Новгород	П.Левитта	5
+вараница дмитриий сергеевич	+7(937)1451313	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410062	Саратов	московское шоссе	19
+Иван Игорьевич	89042467788	NULL	NULL	NULL	NULL	NULL	NULL	NULL	427964	Сарапул	Крылова	13
+Последний Андрей Михайлович	9053923914	NULL	NULL	NULL	NULL	NULL	NULL	NULL	403033 Вол	Волгоград	Новоселовская	3а
+Андреев Даниил Андреевич	+79009999000	NULL	NULL	NULL	NULL	NULL	NULL	NULL	199004	Санкт-Петербург	Железноводская	29
+Гусев Антон Сергеевич	89630520172	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622049	Нижний Тагил	Черноисточинское шоссе	35
+Деря Дмитрий Георгиевич	+79263191759	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115372	Москва	ул.Лебедянская	17
+Тарасова Арина	8-911-989-06-09	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196158	Санкт-Петербург	Дунайский	5
+Орлова Юлия Сергеевна	+7 (987)6718578	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428000	Чебоксары	А.Крылова	3
+Шиянов Дмитрий Георгиевич	+79281931200	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344000	Ростов-на-Дону	Заводская	20
+Командинова Людмила Игоревна	89067508686	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142150	Красная Пахра	Ленина	12
+Дмитриеа Ольга Викторовна	+7 (8422) 360928	NULL	NULL	NULL	NULL	NULL	NULL	NULL	Ульяновска	Ульяновск	Буинская	82
+Голобородько	89621919632	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214530	Смоленск	кирова	55а
+Черепанов Максим Николаевич	89056964644	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143900	Балашиха	Твардовского	40
+Семенов Сергей Васильевич	89613428855	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428010	Чебоксары	дементьева	2
+гумеров руслан ракитович	+7(927) 3075757	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453330	Мраково	Ленина	48
+шибаев олег дмитриевич	+7(8412) 982308	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440066	Пенза	строителей	66
+Кузьмин Антон Валерьевич	+7(914) 5669333	NULL	NULL	NULL	NULL	NULL	NULL	NULL	676854	Белогорск	Низменная	18
+Токарева Анна Николаевна	+7 (951) 4818425	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456620	Челябинск	Бугурусланская	27
+Казарян Арарат Бегизович	+7 (983) 4588879	NULL	NULL	NULL	NULL	NULL	NULL	NULL	670047	Улан-Удэ	Дальневосточная	10
+Кузяков Виктор Дмитреевич	+7(922)2695169	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625028	Тюмень	народная	4
+Милосердов Тимофей Петрович	+7 (4722) 519643	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308019	Белгород	Восточная	71
+Курилова Анна Александровна	89029906326	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660099	Красноярск	Республики	49
+Гузель Зарипова	+7 (8552) 393637	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423810	Набережные Челны	Московский	147
+казанин павел владимирович	+7(905) 9850979	NULL	NULL	NULL	NULL	NULL	NULL	NULL	659300	Бийск	яровой 21	21
+Конькова Екатерина Анатольевна	89002888882	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603163	Нижний Новгород	Казанское шоссе	23
+Дейкин Артём Владимирович	+79165158080	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117525	Москва	Днепропетровская	14
+Бородкин Юрий Михайлович	+79039080020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	654080	Новокузнецк	Запорожская	69а
+Свистун Александр Викторович	9117592889	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192102	Санкт-Петербург	Витебская Сортировочная	16
+Юркевич Евгений Георгиевич	+375 (0162) 531143	NULL	NULL	NULL	NULL	NULL	NULL	NULL	224030	Брест	Советская	80
+Павел Архипов	+7 (8452) 445056	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410038	Саратов	Симбирская	154
+Попков  Владимир Сергеевич	+7 (951) 0152001	NULL	NULL	NULL	NULL	NULL	NULL	NULL	692420	Владивосток	Лазо	4
+Голякова Светлана Ивановна	89272499462	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423819	Набережные Челны	Московский	115
+чистоклетов владимир михайлович	89532258620	NULL	NULL	NULL	NULL	NULL	NULL	NULL	690106	Владивосток	Нерченская	50
+Ильин Сергей Владимирович	+7 (83130) 64535	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607188	Саров (Закрытый)	Курчатова	34
+Пашков Андрей Валерьевич	89231923399	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630089	Новосибирск	Бориса Богаткова	226/1
+Селянкин Олег Вячеславович	89969226818	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170003	Тверь	Хромова	27
+радченко сергей николаевич	89898163400	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353200	Динская	луночарского	103
+Иван ВасильевичГубанов	89625116055	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603041	Нижний Новгород	Красноуральская	1
+Конотопов Михаил	+7 (499) 1307169	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119027	Москва	Боровское	1
+Галина Моисеева	+79034027778	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347250	Константиновск	Ермака	31
+Щербаков Владислав Александрович	+7 (960) 8712829	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400125	Волгоград	гороховцев	20
+Кисленко Олег Викторович	+79034720340	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344017	Ростов-на-Дону	Нансена	121
+Хузин Вильдан Назипович	+7 (917) 8807581	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420011	Казань	Ферма-2	82
+Черепанов Павел Алексеевич	89504821372	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625037	Тюмень	таврическая	10
+Рукин Александр Васильевич	89110031369	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196158	Санкт-Петербург	Московское шоссе	13
+Волкова Ильмира	+7(918)0236341	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352430	Курганинск	Лабинская	339
+Баглай Валерий	+7 (987) 3792607	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410009	Саратов	50 лет Октября	72
+Голзицкий Иван Филиппович	+7(912) 2412873	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620143	Екатеринбург	Орджоникидзе	16
+Мурыгин Александр Сергеевич	+7(922) 2332922	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628416	Сургут	Бажова	3
+Штучка Александра Геннадьевна	+79626001051	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428022	Чебоксары	Гагарина	35
+Пиняев Александр Борисович	+7(999)7050942	NULL	NULL	NULL	NULL	NULL	NULL	NULL	242500	Карачев	Тургенева	32
+макаров владимир вячеславович	89603165817	NULL	NULL	NULL	NULL	NULL	NULL	NULL	444000	Пенза	краснова	27
+Нвсекин Вячеслав Матвеевич	+7(3452) 955444	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625002	Тюмень	Водников	12
+Талызин Геннадий Викторович	+79685938488	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109652	Москва	Новочеркасский бульвар	5
+Светлана Яковлева	+7 (905) 4975663	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355000	Ставрополь	ул.Селекционная	15
+Халилова Румия Альфритовна	+79852715686	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142770	Москва	Липовый парк	4
+Цуров Тимур Идрисович	+7(928) 6954059	NULL	NULL	NULL	NULL	NULL	NULL	NULL	362023	Владикавказ	п.Карца Октябырская	43
+Высоких Александр Константинович	+79676055599	NULL	NULL	NULL	NULL	NULL	NULL	NULL	666780	Усть-Кут	Речников	2
+Дубровина Мария Александровна	+79120797779	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625029	Тюмень	Игримская	16
+Лещенко Евгений Михайлович	+7(8612) 4236320	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353183	Кореновск	Победы	7
+Владимир Иваничев	89534398410	NULL	NULL	NULL	NULL	NULL	NULL	NULL	301138	Тула	п. Иншинский	30
+Генин Олег Львович	+7(812)6777630	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198035	Санкт-Петербург	Гапсальская	5
+Федяев С. В.	+79829982654	NULL	NULL	NULL	NULL	NULL	NULL	NULL	426011	Ижевск	10 лет Октября	5
+Пальянов Юрий Алексеевич	+7 (983) 3185044	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630900	Новосибирск	Новоуральская	13
+Науменко Виктор Николаевич	+7 (40141) 35606	NULL	NULL	NULL	NULL	NULL	NULL	NULL	238150	Черняховск	Цветочная	. 1
+Джикия Давид Важаевич	+7(927)2552525	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400046	Волгоград	привокзальная	1б
+Сударчикова Елена Александровна	+7 (961) 1185680	NULL	NULL	NULL	NULL	NULL	NULL	NULL	155650	Пестяки	фрунзе	4
+Пучкова Марина Алексеевна	+7 (960) 7198550	NULL	NULL	NULL	NULL	NULL	NULL	NULL	602205	Муром	Муромская	25
+суслов дмитрий дмитриевич	+7(913)0294293	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630098	Новосибирск	сердюкова	6
+Урываев Игорь Николаевич	89036998804	NULL	NULL	NULL	NULL	NULL	NULL	NULL	398004	Липецк	Теперика	11
+Рубцов Олег Сергеевич	+7(800) 7004565, 6	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440066	Пенза	проспект Строителей	11
+Семченков Н.П.	+79066679295	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214522	Смоленск	Советская	30
+Саенко Андрей Леонидович	+7 (905) 9449507	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644085	Омск	Мира	157
+Рябова Алёна Алексеевна	89632769876	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610005	Киров	октябрьский проспект	92
+Гарибзаде Ализаман	89067708899	NULL	NULL	NULL	NULL	NULL	NULL	NULL	108811	Москва	киевское 22км	. 4
+Михайлюк Вадим Валерьевич	+7(8634)680999	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347900	Таганрог	5-й Новый	33А
+Матвеев Евгений Егорович	+7 (987) 2773543	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423816	Набережные Челны	Вахитова	40
+Меринов Алексей Владимирович	+79222292815	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Новоуральск (Закрытый)	Фрунзе	6
+ИЗИКОВА Софья Владимировна	+79199721840	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127074	Ядрин	ЛЕНИНА	2
+Чернышов Игорь Иванович	+7(917)5236367	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115035	Москва	Космодомианская	4/22 
+Никитин Федор Владимирович	89142074248	NULL	NULL	NULL	NULL	NULL	NULL	NULL	680018	Хабаровск	авроры	19
+мальцев роман андреевич	8-983-363-45-44	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660049	Красноярск	Парижской коммуны	31
+Мотовилова Юлия Анатольевна	+7(913)2100500	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656023	Барнаул	Германа Титова	35
+Раджанов Марат Эгамович	+7 (905) 3167562	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423350	Сарманово	Строителей	4
+Лобанов Алексей Владимирович	89028149927	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143405	Красногорск	Подмосковный	8
+Абильдаев Меирман	+77017685869	NULL	NULL	NULL	NULL	NULL	NULL	NULL	050060	Алматы	Розыбакиева	289
+Шагинян А.Э.	+7(495) 1206561	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123060	Москва	Маршала Соколовского	3
+Александр Немцев	+7(967)8620412	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454028	Челябинск	Калининградская	24
+Титов Евгений Алексеевич	89266193170	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142115	Подольск	Электромонтажный проезд	11
+Кульчиев Сергей Викторович	+79280733037	NULL	NULL	NULL	NULL	NULL	NULL	NULL	363500	Владикавказ	Галковского	97
+Березина Г.Д.	89828706151	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628661	Покачи	Мира	16
+Катрычев Сергей Владимирович	89228239536	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460048	Оренбург	Шевченко	34а
+Авдеев Е.А.	+7 (903) 9716253	NULL	NULL	NULL	NULL	NULL	NULL	NULL	107392	Москва	Хромова	36
+мердешева екатерина сергеевна	89140019596	NULL	NULL	NULL	NULL	NULL	NULL	NULL	666780	Усть-Кут	ВЕРНАДСКОГО	5
+Исхаков Рим Фаритович	89174269461	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453663	Темясово	Ф.Яхина	38
+Хлызова Олеся Александровна	+7 (906) 8925084	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454071	Челябинск	Подольская	38
+Тупицын Евгений Михайлович	+79223117401	NULL	NULL	NULL	NULL	NULL	NULL	NULL	619000	Кудымкар	Медицинский	32
+Воронин Евгений Александрович	+79212523436	NULL	NULL	NULL	NULL	NULL	NULL	NULL	162604	Череповец	остинская	40
+Хорьков П. .В.	9257488591	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109316	Москва	волгоградский	4
+Ломов Алексей Федорович	+7 (912) 2023217	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622049	Нижний Тагил	Черноисточинское	1
+Локтюшин Павел Александрович	89069577712	NULL	NULL	NULL	NULL	NULL	NULL	NULL	636161	Кожевниково	обская	48
+локтюшин егор павлович	89069577712	NULL	NULL	NULL	NULL	NULL	NULL	NULL	636161	Кожевниково	обская	48
+Гошгаров Рахман Тому Оглу	+7(3466) 219295	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628624	Нижневартовск	Пр. Заозерный	14а
+Казаченко Ирина	89034317051	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344113	Ростов-на-Дону	орбитальная	24
+Кузьменко Александр Геннадьевич	89673026417	NULL	NULL	NULL	NULL	NULL	NULL	NULL	Тимашевск 	Тимашевск	Красная	31
+Татаренко Александр Владимирович	89103414404	NULL	NULL	NULL	NULL	NULL	NULL	NULL	396658	Россошь	Труда	38
+Пеёгло Виктор Степанович	+79312082569	NULL	NULL	NULL	NULL	NULL	NULL	NULL	193149	Санкт-Петербург	Русановска	19
+Абрамян Артур Мисакович	89045896000	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127051	Москва	крапивенский	4
+Леонов Егор Игоревич	89036995553	NULL	NULL	NULL	NULL	NULL	NULL	NULL	398002	Липецк	Космонавтов	3а
+Агаева Лариса Андревна	89130960025	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656057	Барнаул	Панфиловцев	23
+Ситников Ярослав Александрович	+7 (922) 9594893	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610002	Киров	Урицкого	20
+РОМАНОВ  ЮРИЙ	+7 (928) 1534925	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344015	Ростов-на-Дону	Малиновского	78в
+Дмитриевская Елена Алексеевна	+7 (927) 8145711	NULL	NULL	NULL	NULL	NULL	NULL	NULL	433030	Инза	Мира	32
+Фокина Елена Михайловна	89878357200	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410035	Саратов	им. Чехова А.П.	12/36
+Попов Петр Викторович	89047575645	NULL	NULL	NULL	NULL	NULL	NULL	NULL	403110	Урюпинск	ленина	90
+Азизов Руслан Азизович	+7(961)5120022	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350024	Краснодар	Жигулёвская	15
+Мариета	89161520273	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109117	Москва	Волгоградский109	109
+Севрикова Анастасия Анатольевна	+79271388080	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410047	Саратов	Отрадная	59
+Ясаков Александр Валентинович	+7(920) 0082992	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603159	Нижний Новгород	Карла Маркса	56
+Толкачев Андрей Сергеевич	+79124135989	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628380	Пыть-Ях	Микрорайон 2	19
+Павел Хорольский	89110330118	NULL	NULL	NULL	NULL	NULL	NULL	NULL	190013	Санкт-Петербург	Малоохтинский	16
+молозинов михаил владимировичь	89530036244	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624992	Серов	Толмачева	106
+Закиров Азат Ринатович	89872892650	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420091	Казань	4-ая муромская	96
+Кондранин Владимир Владимирович	+7(927)3644458	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440066	Пенза	Строителей	89
+Удалова Лиана Маратовна	89376178810	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420137	Казань	Адоратского	36
+Плотников С.А	+79376589808	NULL	NULL	NULL	NULL	NULL	NULL	NULL	446472	Самара	Среднесадовая	67
+Коков Алан Константинович	+7(918)8254436	NULL	NULL	NULL	NULL	NULL	NULL	NULL	363124	Владикавказ	серобабова	56
+Куковякин Александр Олегович	89091407334	NULL	NULL	NULL	NULL	NULL	NULL	NULL	613150	Слободской	Вятская	9ф
+Лысова Наталья	89030405000	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606025	Дзержинск	Терешковой	26 Б
+Мустафазаде Мустафа Рамизович	+7(937) 5711110	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423251	Лениногорск	Агадуллина	7
+Карапетян Манвел Робертович	9126055550	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623141	Новоалексеевское	южная	9
+Зимовейская Ольга Анатольевна	89684556131	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111674	Москва	Ухтомского ополчения	4
+Дарья Николаевна	89630350344	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623706	Березовский	Новая	20
+Ломако Кирилл Владимирович	+79163053131	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119285	Москва	2-й Мосфильмовский	6
+Анна Токарева	89122873310	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620014	Екатеринбург	Хохрякова	35
+Дюндик О.В.	9180394596	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353320	Абинск	Ростовская	136
+Семенова Ольга Анатольевна	89292377522	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456121	Челябинск	Ленина	5
+Федин Сергей Юрьевич	+7 (904) 7607398	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420059	Казань	Оренбургский тракт	24А
+Каликину Роману Андреевич	89086440222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	665808	Ангарск	84 квартал	8
+Лырчиков Александр Александрович	+7(913) 6399258	NULL	NULL	NULL	NULL	NULL	NULL	NULL	646563	Омск	береговая	9
+НИКИТУШКИН АНДРЕЙ ВАСИЛЬЕВИЧ	+79643165331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302028	Орел	Сурена Шаумяна	34
+НИКИТУШКИНА НИНА ВАСИЛЬЕВНА	+79643165331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302028	Орел	Сурена Шаумяна	34
+Владимир Лоскутников	89147550205	NULL	NULL	NULL	NULL	NULL	NULL	NULL	693023	Южно-Сахалинск	ул. Пуркаева М.А., 31В, кв. 26.	31
+Акимова Светлана Александровна	+7(9530) 443164	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620010	Екатеринбург	косарева	17
+Карапетян Михаил Робертович	+7(863) 2566068	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344000	Ростов-на-Дону	Орбитальная	13
+Джавриев Хамид Мугришаевич	+7(863) 2566068	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344000	Ростов-на-Дону	Орбитальная	13
+Лукичёв Дмитрий	+7 (495) 7900599	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111672	Москва	Городецкая	10
+Николай Петрович Дубинин	+79062446094	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196244 СПб	Санкт-Петербург	Благодатная ул., д.65	65
+Глазков Владимир Сергеевич	+7(910) 6944071	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153022	Иваново	Летчика Захарова	24
+Брюшкова Ирина Александровна	+7 (915) 093-84-57	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111673	Москва	Суздальская	14
+Бакотина Татьяна Валерьевна	89207871754	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141313	Сергиев Посад	булавина	1/12
+Миронов В.Е.	89217642479	NULL	NULL	NULL	NULL	NULL	NULL	NULL	1962140	Санкт-Петербург	5ый предпортовый	10
+Ульяновский Сергей Анатольевич	89831452370	NULL	NULL	NULL	NULL	NULL	NULL	NULL	663690	Зеленогорск	Первомайская	14а
+Козун Светлана Александровна	9609491019	NULL	NULL	NULL	NULL	NULL	NULL	NULL	658700	Камень-на-Оби	шукшина	8
+Абрамовских Александр	89235278493	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650001	Кемерово	Кузнецкий	43
+Шмидко  Алексей Анатольевич	89614266111	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347909	Таганрог	Бабушкина	54В
+КОНДРАТЮК ВЛАДИСЛАВ СЕРГЕЕВИЧ	89034488773	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353309	Холмская	ольгинская	8
+Семикин Алексей Александрович	89136702326	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644043	Омск	добровольского	3
+Самойлов Радий Андреевич	+7(953) 7674549	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630088	Новосибирск	Бородина	8
+Галкин Борис Викторович	+79052531408	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192029	Санкт-Петербург	пр. Обуховской обороны	93
+Голыненков Андрей  Иванович	89064273553	NULL	NULL	NULL	NULL	NULL	NULL	NULL	354068	Сочи	голубые дали	78
+Вертиков Евгений Викторович	89236165767	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650004	Кемерово	ленина	55
+Пугаев Вячеслав Юрьевич	+7 (927) 3655875	NULL	NULL	NULL	NULL	NULL	NULL	NULL	442868	Сердобск	счастливая	10
+БОРАДЗОВ  ТИМУР ТАМЕРЛАНОВИЧ	+7 (928 688 79 00	NULL	NULL	NULL	NULL	NULL	NULL	NULL	362008	Владикавказ	Гадиева	65
+Кусков Артем Сергеевич	+79225407333	NULL	NULL	NULL	NULL	NULL	NULL	NULL	461621	Бугуруслан	Электрико	19
+Волков Валерий	+7 (981) 7272272	NULL	NULL	NULL	NULL	NULL	NULL	NULL	188650	Сертолово	Заречная	5
+Иван Кутепов	89511111591	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454000	Челябинск	Володарского	17
+Шведов Петр Николаевич	89670413015	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115573	Москва	шипиловская	37
+Третьяков Александр	+7 (8313) 238437	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606034	Дзержинск	Патоличева Комбрига	9
+Гармаш Владислав Валерьевич	89190703457	NULL	NULL	NULL	NULL	NULL	NULL	NULL	301138	Тула	Константина Паустовского	12
+Юркин Денис Сергеевич	89042254465	NULL	NULL	NULL	NULL	NULL	NULL	NULL	167023	Сыктывкар	Морозова	124
+Мартынов Олег Владимирович	89101454952	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603009	Нижний Новгород	Луганская	3
+Софронов Илья Анатольевич	89637142444	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109147	Москва	Марксистская	3
+Агапов Олег Владимирович	+7(913)7323262	NULL	NULL	NULL	NULL	NULL	NULL	NULL	632386	Куйбышев	Гвардейская	17
+Левахин Алексей	+7 (843) 5278183	NULL	NULL	NULL	NULL	NULL	NULL	NULL	421001	Казань	Адоратского	2
+Громова Юлия	+7 (937) 9182020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440031	Пенза	Окружная	119А
+ИП Петухов Д.Ю.	+7 (919) 0274860	NULL	NULL	NULL	NULL	NULL	NULL	NULL	600026	Владимир	Горького	93
+сагит	+7 (905) 3157440	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420088	Казань	кулагинская	46
+Сараев Дмитрий Владимирович	89218556225	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195220	Санкт-Петербург	Гжатская	3
+Стукалкин Роман Владимирович	+79677626626	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443028	Самара	Квартал 6	5
+Магомедов Абдулла Садикович	+7(928) 9407002	NULL	NULL	NULL	NULL	NULL	NULL	NULL	368085	Махачкала	Элеваторная	4
+Мельников Вадим Борисович	8 918 19 30 451	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352240 Кра	Новокубанск	Кооперативная	90
+Ивлева Надежда	+7 (9066776564	NULL	NULL	NULL	NULL	NULL	NULL	NULL	397855	Острогожск	Djrpfkmyfz	1
+васильков сергей александрович	89517118405	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214000	Смоленск	попово	111
+Цурганов Д. А	+7(964) 8381123	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607220	Арзамас	Карла маркса	61
+ильин ла	89119213930	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198302	Санкт-Петербург	стачек	93
+Воронцов Сергей Александрович	+7 (913) 6515010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644073	Омск	Дианова	20
+Игнатьева Татьяна Анатольевна	89040595016	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603014	Нижний Новгород	Комнтерна	14
+Бусыгин ВладимирСергеевич	89867295949	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607650	Кстово	магистральная	4
+Калайджян. Степан. Степанович	+7(918)4694013	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352680	Хадыженск	Гусева	19
+Майстат Александр Леонидович	+7 (911) 7805261	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192076	Колпино	Октябрьская	77/27
+Николай.	89138350440	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660118	Красноярск	Комсомольский проспект	7
+Пшуков Мухарби Сафарбиевич	89054376423	NULL	NULL	NULL	NULL	NULL	NULL	NULL	361043	Прохладный	Свободы 246/2	246/2
+Смирнов Евгений Викторович	89141425252	NULL	NULL	NULL	NULL	NULL	NULL	NULL	672000	Чита	Угданская	13
+Баркалов Александр Александрович	+79102602224	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302507	Орел	д. булановка	15
+Руденко Александр	+7 (951) 5130546	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344037	Ростов-на-Дону	Лекальная	2
+Едунова Нина Григорьевна	89186382289	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353960	Новороссийск	Садовая	11
+Папахчян  Арсен Папикович	+7 (916) 2858545	NULL	NULL	NULL	NULL	NULL	NULL	NULL	1424000	Ногинск	2 Малобуньковская	13
+Чучина Дарья Александровна	+79180934802	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350047	Краснодар	им. Артюшкова В.Д.	19
+Мосолов А.Л.	+7 (9851145262	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127566	Москва	северный	3
+Кравченко Эдуард Александрович	+79528643722	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350005	Краснодар	А.Покрышкина	4\4
+Мошиян Григорий Дртадович	89185203034	NULL	NULL	NULL	NULL	NULL	NULL	NULL	Ростов-на-	Ростов-на-Дону	ул.Жмайлова	11
+Павел Шахненко	+375296113565	NULL	NULL	NULL	NULL	NULL	NULL	NULL	220102	Минск	Байкальская	66
+Коротенков Сергей Николаевич	89277274303	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443034	Самара	Металлистов	55
+Жигалин Владимир Сергеевич	89270036243	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443063	Самара	Вольская	50
+Тамбаев Каиржан Сеилжанович	+79128495632	NULL	NULL	NULL	NULL	NULL	NULL	NULL	462429	Орск	волкова	3
+Иван Тетерин	+7(3812) 209500	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644024	Омск	Маршала Жукова	25
+Борисова Елена	+7 (3852) 201785	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656067	Барнаул	Попова	206Б
+Неизвестных Виталий Вячеславович	89038647203	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399770	Елец	Новая	102
+Гусев Максим Александрович	9676735941	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422545	Зеленодольск	КОМАРОВА УЛИЦА	23
+Алексанян Ани Араевна	89084744877	NULL	NULL	NULL	NULL	NULL	NULL	NULL	433513	Димитровград	Первомайская	66
+Рыжиков Павел Александрович	+7 (4862) 719108	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302011	Орел	Мебельная	2
+Дедушев Евгений Викторович	+7 (961) 9391271	NULL	NULL	NULL	NULL	NULL	NULL	NULL	190121	Санкт-Петербург	Дровяной	22
+кретов олег львович	89643093860	NULL	NULL	NULL	NULL	NULL	NULL	NULL	184362	Мурмаши	энергетиков	17
+Кулешов Максим Вадимович	89103832705	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607013	Нижний Новгород	героя смирнова	35
+Гордиенко Владимир	+7(978)0529979	NULL	NULL	NULL	NULL	NULL	NULL	NULL	295050	Симферополь	Кечкеметская	29
+Дорофеева юлия владимировеа	+7(9117404468	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195298	Санкт-Петербург	Наставников	7
+Кеворков Дмитрий Арсенович	+7 (9175934118	NULL	NULL	NULL	NULL	NULL	NULL	NULL	690048	Владивосток	Овчинникова	6
+Зейналов Руслан	+7(985) 1720342	NULL	NULL	NULL	NULL	NULL	NULL	NULL	107258	Москва	Игральная	4
+Зарабелов Роман	+7(989)9507887	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453431	Благовещенск	Комарова	8
+Сальная Анастасия	89612463635	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153009	Иваново	Диановых	14
+Сергей. Анна	+7 (996) 2038720	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410015	Саратов	Саратов	1
+Яшутин Владимир Александрович	+7 (922) 2273304	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624800	Сухой Лог	Фучика	4
+Куфтырев Андрей Дмитриевич	+79062961650	NULL	NULL	NULL	NULL	NULL	NULL	NULL	160034	Вологда	Gcrjdcrfz	6
+Каштанова Татьяна Владимировна	89297731377	NULL	NULL	NULL	NULL	NULL	NULL	NULL	412919.	Вольск	Поселковая	26
+Аксенов Роман	89065317181	NULL	NULL	NULL	NULL	NULL	NULL	NULL	300013	Тула	Мосина	8-10
+Евсикова Наталия АндреевнаРыжиков Павел еАлександрович	+7 (4862) 719108	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302011	Орел	Мебельная	2
+Лобач Алексей Леонтьевич	89155634453	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308000	Белгород	Щорса	8
+Иринп	89260467959	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111397	Москва	3-я владимирскав	27
+Колесников Сергей Владимир	89151041529	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123104	Москва	Богословский	3
+Теорсак Вадим	89269804080	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119331	Москва	Марии ульяновой	9
+зелюка максим сергеевич	+7 (863) 3220283	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344016	Ростов-на-Дону	таганрогская	144
+Буслаев Владимир Дмитриевич	+79878914355	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460000	Оренбург	Акулова	66
+Паутов Владимир Александрович	89213233203	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187435	Санкт-Петербург	д. Хвалово	15
+Малышева Анна Михайловна	89276954572	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443086	Самара	скляренко	20
+носонов а в	+79085754060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454000	Челябинск	танкистов	150
+Череховский Александр Владимирович	+7(988) 1403359	NULL	NULL	NULL	NULL	NULL	NULL	NULL	636000	Северская	Транспортная	32
+Смирнова Елена Витлиевна	+7 (495) 6407420, 108	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109428	Москва	Рязанский	30/15
+Романов Сергей Альбертович	+79832692319	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660125	Красноярск	Светлогорская	7
+Печерский Дмитрий сергеевич	+7(913)5616124	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660022	Красноярск	никитина	2
+Сисюкин Роман Геннадьевич	89099582137	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346513	Шахты	Школьная	13А
+Пидгрушный Игорь Любомирович	+7(919) 9530813	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625023	Тюмень	Широтная	217
+саранина инна ивановна	89788961442	NULL	NULL	NULL	NULL	NULL	NULL	NULL	299002	Севастополь	надежды краевой	16-а
+Зайцева Марина Евгеньевна	9822873094	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454081	Челябинск	Абразивная	50
+Юнусов Ильдус Фатыхович	+7(917) 8540191	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420000	Казань	Баки урманчи	6
+Белов Арсений К.	+7 9601109070	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394019	Воронеж	Еремеева	33
+Юнусова Эльвира Талгатовна	+7(917) 8540191	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420000	Казань	Баки урманчи	6
+Агалаков Артем Викторович	+7(918) 9708833	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350001	Краснодар	Ставрапольская	116
+карза павел владимирович	89200873049	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302010	Орел	5 -й Орловской стрелковой дивизии	12
+мясоедов дмитрий федорович	89539102876	NULL	NULL	NULL	NULL	NULL	NULL	NULL	634062	Томск	карский	35
+Шаульский Евгений  Александрович	89120665456	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460000	Оренбург	гражданская	36
+Соларев Павел Валерьевич	+7(964) 3740978	NULL	NULL	NULL	NULL	NULL	NULL	NULL	190005	Санкт-Петербург	измайловский	2а
+Дурян Самвел Норикович	89539307717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	164200	Няндома	ленина	48
+малев св	+7 (9655854449	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624016	Арамиль	школьная	19
+Левина Алина Александровна	+7(920) 0848777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302020	Орел	Наугорское	92
+Родионова Марина	89161841306	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125426	Москва	Василия Петушкова	7
+Родионова Марина Гурьевна	89161841306	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125426	Москва	Василия Петушкова	7
+Волков Дмитрий Валерьевичч	89174426006	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453100	Стерлитамак	Строителей	18
+Петров.Павел.Валерьевич	89052839171	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198206	Санкт-Петербург	летчика пелютова	5
+Еренков.Александр Николаевич	89066791632	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394076	Воронеж	Писарева	67
+Законов Алексей Владимирович	89089011009	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620085	Екатеринбург	8 марта	197
+Володин Татьяна Александровна	89611160153	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153022	Иваново	Лежневская	114
+Куцевол Дмитрий Вячеславович	+7 (920) 8721564	NULL	NULL	NULL	NULL	NULL	NULL	NULL	248009	Калуга	Промышленная	34
+Радомский Андрей Викторович	89292616001	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625022	Тюмень	проезд заречный	37
+Зиннуров Ришат Мидхатович	+79177969222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453114	Стерлитамак	Мирная	6
+Пропп Сергей Владимирович	89136359651	NULL	NULL	NULL	NULL	NULL	NULL	NULL	646905	Калачинск	ОМСКАЯ	99
+сташко виктор викторович	+7(9236228384	NULL	NULL	NULL	NULL	NULL	NULL	NULL	654063	Новокузнецк	веры соломиной	15
+Бельских Евгений Сергеевич	89819530467	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195267	Санкт-Петербург	ушинского	18
+Сидоров Максим Валериевич	+79175682879	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143980	Железнодорожный	Новая	11
+Никитина Ирина Сергеевна	89272239408	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410051	Саратов	проспект 50лет октября 101 в	101
+Дмитрий Викторович Богданов	+7 (987) 8160994	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443051	Самара	Алма-Атинская	29
+Демиденко Светлана	+375 (17) 3190528	NULL	NULL	NULL	NULL	NULL	NULL	NULL	220067	Минск	Каганца	2
+Жигалов Артём Евгеньевич	+7(3812)332522	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644041	Омск	Берко Цемента	12
+Надежда Кошеварова	89252306442	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127224	Москва	Осташковская	30
+Храпова Ирина Васильевна	+79199551326	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625035	Тюмень	50 лет ВЛКСМ 91	91
+Курамшин Альберт Ринатович	+7 (927) 1816777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	430006	Саранск	Александровское	8А
+Калинин Георгий Сергеевич	+79194600020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620050	Екатеринбург	Минометчиков	34
+аникинвиталиивладимирович	9199955295	NULL	NULL	NULL	NULL	NULL	NULL	NULL	413030	Воскресенское	садовая	24
+Бобов Сергей Петрович	89994300005	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650000	Кемерово	Островского	3
+Шарко Иван Витальевич	89226147997	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Арамиль	Щорса	42
+Бобнев Евгений Викторович	89093836211	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400007 г. 	Волгоград	Таращанцев	22
+Швыдкая Ольга Анатольевна	89500309501	NULL	NULL	NULL	NULL	NULL	NULL	NULL	190000	Санкт-Петербург	Декабристов	10
+Подрядова Надежда Эдуардовна	+7 (915) 6124243	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390027	Рязань	семчинская	9
+Черепанов Роман Евгеньевич	89222122413	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620028	Екатеринбург	Заводская	11
+Немых Д.А	89128976798	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456303	Миасс	Дёмина	2Б
+Бояршинов Евгений Николаевич	+7 (34249) 31883	NULL	NULL	NULL	NULL	NULL	NULL	NULL	618910	Лысьва	Куйбышева	6
+Варакин Алексей Евгеньевич	+79111727680	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196657	Колпино	Пролетарская	125
+Хиленко АА	89275447673	NULL	NULL	NULL	NULL	NULL	NULL	NULL	403791	Жирновск	К Маркса	146
+Валентина Маркелова	89164978404	NULL	NULL	NULL	NULL	NULL	NULL	NULL	457415	Магнитогорск	Школьная	8
+Загайнов Павел Борисович	+7(902) 1799995	NULL	NULL	NULL	NULL	NULL	NULL	NULL	665709	Братск	Приморская	6
+Щекин Иван Викторович	89827026408	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622000	Нижний Тагил	красноармейская	109
+Супрунов Николай Николаевич	89155722758	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308001	Белгород	Николая Чумичева	58
+Носуля Илья Александрович	89035210203	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142205	Серпухов	Стадионная	1
+Апурин Дмитрий Александрович	+7 (4712) 584244	NULL	NULL	NULL	NULL	NULL	NULL	NULL	305000	Курск	3-ий Березовый	3
+Аникин Алексей Николаевич	+7(950)2403771	NULL	NULL	NULL	NULL	NULL	NULL	NULL	156001	Кострома	Крупской	19
+Ермагамбетов Талгат Нигметжаович	+7912356677	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460000	Оренбург	60лет октября	24
+Квасница Александр Петрович	+79186622723	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353911	Новороссийск	пенайская	42
+Наталья Пушкарева	+7 (714) 2222881	NULL	NULL	NULL	NULL	NULL	NULL	NULL	110000 Рес	Костанай	Карбышева	123/1
+Вебер Фёдор Фёдорович	+7(968) 1263701	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456610	Копейск	Калинина	13А
+Леонтьев Владимир Паавлович	9858132821	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125040	Москва	Ленинградский	9
+Дергачева Екатерина Владленовна	8-926-321-58-30	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117534	Москва	Чертановская	53
+Саранюк Александр Игоревич	+7 (4732) 2330661, 500	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394033	Воронеж	Урывского	14М
+Травочкин Дмитрий Владимирович	+7(911)6025512	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173011	Великий Новгород	Советской Армии	34
+Войткив Степан Александрович	89068810041	NULL	NULL	NULL	NULL	NULL	NULL	NULL	168100	Визинга	Парковая	4
+Фомин Тимофей Викторович	89600454281	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422540	Зеленодольск	Тверская	50
+Морозов Григорий Павлович	+79097776195	NULL	NULL	NULL	NULL	NULL	NULL	NULL	238750	Советск	Тургенева	2
+Гарифуллина Гузель Рамзиевна	89177636147	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450000	Уфа	Бехтерева	10
+Шишканов Вячеслав Сергеевич	+7 (962) 6861234	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198515	Стрельна	Львовская	23
+ВЕДИНА ЛЮБОВЬ ВЛАДИМИРОВНА	+7 (4722) 535788	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308036	Белгород	юности	5а
+Мальцев Евгений	+7 (962) 6620804	NULL	NULL	NULL	NULL	NULL	NULL	NULL	164501 Сев	Северодвинск	Гагарина	13
+Савкаев Ильдар Галиаскарович	89123071365	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454129	Челябинск	Лизы Чайкиной	13
+Салит Алексей Владимирович	89164651254	NULL	NULL	NULL	NULL	NULL	NULL	NULL	105064	Москва	Нижний Сусальный	5
+Мищет Татьяна Николаевна	+79183236895	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352570	Мостовской	Ленина	47
+Щербаков Виктор Николаевич	+79122892019	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Екатеринбург	павла шаманова	28
+Сериков Сергей Васильевич	+79105773837	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142100	Подольск	Веллинга	8
+Губайдуллин Артур Юнусович	+7(8432)96379720	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420037	Казань	четаева	48
+Абаков Раис Миниярович	89650601284	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196158	Санкт-Петербург	московское	28
+Халатян Давид Аветикович	+7 (812) 6482120	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192012	Санкт-Петербург	Мурзинская	11
+Валиахметов  Руслан Александрович	+7(917) 3555570	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450022	Уфа	Бакалинская	50
+Сомой Николай Анатольевич	+79042922115	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399850	Данков	Островского	12
+Куликов Павел Викторович	+7 (9222) 375252	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454000	Челябинск	бейвеля	46
+Шниткина Наталья Владимировна	9612354074	NULL	NULL	NULL	NULL	NULL	NULL	NULL	658422	Горняк	Геологическая	2
+Шниткин Андрей Геннадьевич	9612354062	NULL	NULL	NULL	NULL	NULL	NULL	NULL	658422	Горняк	Геологическая	2
+санников юрий анатольевич	+79192541978	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399061	Грязи	Липецкая область,г.Грязи,ул.Лермонтова	60
+Драчук Алексей Иванович	+79630354285	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623780	Артемовский	Рабочая	41
+Елисеева Анна	+7 (962) 2433344	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170007	Тверь	Розы Люксембург	68
+Деменков Станислав Евгеньевич	89262899079	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140082	Лыткарино	квартал 2	6
+Захаров Владимир Дмитриевич	+7 (977) 2684097	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141068	Королев	молодежная	5
+Горин Михаил Александрович	+79823012295	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454074	Челябинск	3-арзамасская	30
+Мильков Алексей Петрович	+7 (963)0476752	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620025	Екатеринбург	Мрамормкая	1
+Гусев Никита Аркадьевич	89030999914	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187000	Тосно	Обуховской обороны	29
+Мухиев Байрам	+79267975600	NULL	NULL	NULL	NULL	NULL	NULL	NULL	744001	Ашхабад	Азади	18
+Шакутина Екатерина Валериевна	+79377913492	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445051	Тольятти	Степана разина	71
+Шульгин Сергей Александрович	+7 (919) 2831387	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308004	Белгород	Щорса	40
+Матвейчук Наталья Петровна	+79118678202	NULL	NULL	NULL	NULL	NULL	NULL	NULL	238210	Гвардейск	Поселковая	2Б
+Елисеев Алексей Виктрович	+7(911) 7002009	NULL	NULL	NULL	NULL	NULL	NULL	NULL	194358	Санкт-Петербург	Шостаковича	5
+Грибов Тимур	89268420149	NULL	NULL	NULL	NULL	NULL	NULL	NULL	987547	Троицк	864675	1
+Добронравов Александр Владимирович	+7(495)6485557	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109428	Москва	Рязанский	30/15
+сас денис васильевич	9065085111	NULL	NULL	NULL	NULL	NULL	NULL	NULL	249000	Балабаново	Гагарина	31
+Канаев Артем Владимирович	89227503051	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454008	Челябинск	Бр. Кашириных	86
+Деменев Олег	+7(902)7916916	NULL	NULL	NULL	NULL	NULL	NULL	NULL	614081	Пермь	Голева	2
+Кондаков Алексей Александрович	+7(4212) 662686	NULL	NULL	NULL	NULL	NULL	NULL	NULL	680000	Хабаровск	Дзержинского	56
+Сапоалиева  Лариса Павловна	+7(8512) 599628	NULL	NULL	NULL	NULL	NULL	NULL	NULL	416130	Астрахань	Ленина	16
+Балахонцев Владимир	89511589302	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309514	Старый Оскол	Тенистая	124
+Кильдияров Айрат Маратович	7-9603974245	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453480	Толбазы	луговая	2
+Козлов Петр Петрович	+7(9025)624984	NULL	NULL	NULL	NULL	NULL	NULL	NULL	671247	Улан-Удэ	п. Селенгинск мкр.Южный	21
+Радулов Александр Леонидович	89609929018	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644073	Омск	4 любинская	42
+Работник года	+7(968) 9687781	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109443	Москва	Волгоградский	110
+ожиганов михаил леонидович	+9648610651	NULL	NULL	NULL	NULL	NULL	NULL	NULL	424000	Йошкар-Ола	макаренко	3
+Морозов Владимир Викторович	+7(906)6755645	NULL	NULL	NULL	NULL	NULL	NULL	NULL	397075	Воронеж	апраксина	61
+Суярова Татьяна	+7 (926)538-00-35	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119634	Москва	Лукинская	18
+Штрырев Алексей Викторович	89270284219	NULL	NULL	NULL	NULL	NULL	NULL	NULL	446001	Сызрань	карла либкнехта	15
+Жданов Александр Александрович	+7(47467) 59149	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399785	Елец	задонская	43
+Берендяев Владимир Борисович	89204728098	NULL	NULL	NULL	NULL	NULL	NULL	NULL	392006	Тамбов	Интернациональная	30е
+Валерий Семенович	+7(999)9660680	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142000	Домодедово	Ленинская	2
+книвец николай васильевич	+7 (915) 9487186	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607910	Починки	калинина	43
+Киреева Татьяна	+7 (4872) 430094	NULL	NULL	NULL	NULL	NULL	NULL	NULL	300022	Тула	10 проезд	57
+Мирошниченко Виталий Александрович	9097601919	NULL	NULL	NULL	NULL	NULL	NULL	NULL	356630	Ипатово	Новая	4
+Белова Светлана Владимировна	89101426274	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606108	Павлово	Фаворского	60
+Шалунов С.А.	89128933868	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456388	Миасс	Карла Маркса	39
+Кутельма Владимир Анатольевич	+79286013361	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346880	Батайск	Энгельса	426
+Рустамов Эдгар Телманович	+79384311021	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353365	Нижнебаканский	Фрунзе	10
+Фахрутдинов Рашид Расильевич	89107771679	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601503	Гусь-Хрустальный	менделеева	25
+Базаров Дмитрий Дмитриевич	+7(911)9550668	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198216	Санкт-Петербург	пограничника гарькавого	26
+Крюкова Оксана Олеговна	+79879757304	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445045	Тольятти	Ярославская	8
+Боровинских Николай Сергеевич	898231450	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454087	Челябинск	Клиническая	25
+Порядена Марина Владимировна	+79507553563	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394029	Воронеж	Лененский	21
+Геращенко михаил фндреевич	89803918397	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308000	Белгород	мичурина	100
+Акишин Евгений Викторовоч	+79271700004	NULL	NULL	NULL	NULL	NULL	NULL	NULL	430003	Саранск	Большевистская	85
+Анастасия Валерьевна	+7 (919) 3735881	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620039	Екатеринбург	Черепанова	4
+Маар Оксана Владимировна	89686784637	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141078	Королев	Королева	8
+Садриев Рустам Саитович	+79674902281	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445027	Тольятти	приморский	14
+Пуц Олег Васильевич	+79193860120	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624135	Новоуральск (Закрытый)	Дзержинского	13
+Узденов хусей халисович	+7(87822) 0274145	NULL	NULL	NULL	NULL	NULL	NULL	NULL	369300	Черкесск	Советская	9
+Пионов Алексей Валентинович	+7 (902) 7691911	NULL	NULL	NULL	NULL	NULL	NULL	NULL	665825	Ангарск	92 квартал	2
+ялых семён аркадьевич	+7(8453) 6078890	NULL	NULL	NULL	NULL	NULL	NULL	NULL	190000	Санкт-Петербург	уманский	4
+Alexandrova Nataliya	9324711881	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625049	Тюмень	Московски тракт	154
+павел александрович зорин	+7(3842) 670021	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650000	Кемерово	4 цветочная	40
+Русаневич Валерия Александровна	89021962689	NULL	NULL	NULL	NULL	NULL	NULL	NULL	165651	Коряжма	Пушкина	22
+Карпенко Сергей Анатольевич	79994524029	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630024	Новосибирск	Горбаня	7
+Титченко Павел Николаевич	89231265747	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630126	Новосибирск	Выборная	99
+89282529013	+79282529013	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357703	Кисловодск	Революция	45
+Лютиков Дмитрий Вячеславович	+7(952) 4931468	NULL	NULL	NULL	NULL	NULL	NULL	NULL	г.Курск ул	Курск	Большевиков	75
+Михайлов Андрей Павлович	89173780388	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453360	Ермолаево	Чапаева	84
+Александр Григорьев	+7(8352)223559	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428024	Чебоксары	Мира пр-т	62
+Шиндановину Илья Петрович	+7(928) 7788415	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344065	Ростов-на-Дону	Ледниковая	3
+Юшков Леонид Владимирович	+7 (926) 2495623	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410019	Саратов	2-й Магнитный проезд	5
+Иван Иван Иванович	+79256133968	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423525	Москва	Лесная	5
+Котенев Богдан Викторович	89780410002	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628284	Урай	Романтиков	17
+рейкин станислав юрьевич	8-917-679-49-18	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428900	Новочебоксарск	Коммунистическая	23
+Попович Екатерина Михайловна	89372372624	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445044	Тольятти	Космонавтов	14
+Сергеева Людмила Львовна	+7(905) 2158190	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196247	Санкт-Петербург	Бассейная	3
+Патяев Евгений Игоревич	+79022171697	NULL	NULL	NULL	NULL	NULL	NULL	NULL	107076	Москва	колодезный	14
+Деркаева Марина	89055188338	NULL	NULL	NULL	NULL	NULL	NULL	NULL	129329	Москва	Тенистый	8
+Рассветаева Светлана Николаевна	+7(9221264315	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623109	Первоуральск	Торговая	1
+Казарян Артем Спртакович	+7(86358)865400,792981	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347780	Веселый	почтовая	104
+Абдулаев Заур Магомедзагидович	+7(926) 1031199	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141508	Солнечногорск	Дубинино	57
+Вартанов Гагик Владимирович	+7 9063658403	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606039	Дзержинск	Космонавтов	7
+Городничев Николай Алексеевич	89922142304	NULL	NULL	NULL	NULL	NULL	NULL	NULL	614070	Пермь	ольховская	23
+Баженова Светлана Олеговна	89519226090	NULL	NULL	NULL	NULL	NULL	NULL	NULL	617120	Верещагино	мичурина	52
+Баскова Елена Сергеевна	+7(920) 3857338	NULL	NULL	NULL	NULL	NULL	NULL	NULL	157000	Буй	октябрьской революции	64
+Гришин Владимир Григорьевич	8-911-831-48-02	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192242	Санкт-Петербург	Белградская	6
+Хасанов Ибрагим Уахович	+7(922)7946995	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628600	Нижневартовск	60 лет октября	54
+Маслов Игорь Николаевич	+7(913)9741470	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644015	Омск	Поворотникова	19
+Дмитрий Кузин	+79212013331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	174510	Пестово	Производственная	13
+Быков Владимир Александрович	89041655078	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620146	Екатеринбург	Ковровый	9
+Ягудин Тимур	+7 (904) 9720707	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454080	Челябинск	Энтузиастов	2
+Гладких Артём Александрович	89313778343	NULL	NULL	NULL	NULL	NULL	NULL	NULL	199178	Санкт-Петербург	18 линия В.О.	45
+Фаиг	89606316468	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309075	Белгород	Школьная	18
+Курьянова Оксана	89515636395	NULL	NULL	NULL	NULL	NULL	NULL	NULL	396420	Павловск	Железнодорожная ул.	3
+Газизова Рабига Валиевна	89172872765	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422650	Рыбная Слобода	корчебокова	3
+Чичкала Мария Александровна	+7 (909) 4414397	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344010	Ростов-на-Дону	крепостной	141
+Горбунов Вадим Владимирович	+7 (902) 4973007	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628285	Урай	микрорайон 2	31
+Миленин Олег Васильевич	89281262084	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346905	Новошахтинск	фабричный	1
+Лебедев Андрей Сергеевич	+7 (962) 2139979	NULL	NULL	NULL	NULL	NULL	NULL	NULL	162600	Череповец	Ленинградская	21
+вахитова лилия мираловна	89228000108	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460000	Оренбург	Брестская	4
+--1)..Иван...,02). Алексей	+7 (927) 0022323	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443545	Курумоч	ленина	5
+Ботников Владимир Васильевич	+7 (908) 8737845	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625049	Тюмень	московский тракт	141
+Ольга Чепусова	+7 (905) 3357666	NULL	NULL	NULL	NULL	NULL	NULL	NULL	404118	Волжский	40 лет Победы	84
+Беляков Виталий /Булгаков Александр	+7 (960) 8360824	NULL	NULL	NULL	NULL	NULL	NULL	NULL	44500	Тольятти	самарская	2
+Яковлева Светлана	+7(909)7662988	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355000	Ставрополь	Селекционная	15
+Полушкин Александр Геннадьевич	89997766741	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601966	Мелехово	Школьный переулок	27
+Осташова Людмила Рудольфовна	9269511327	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123007	Москва	5-ая Магистральная	3
+Тулчин В.М.	+7 (3852) 469773	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656064	Барнаул	павловскмй тракт	213
+Фатихов Дамир Наилевич	+7 (831) 2113021, 105	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603158	Нижний Новгород	Зайцева	31
+Шляпкин Юрий Петрович	+7(937) 2436879	NULL	NULL	NULL	NULL	NULL	NULL	NULL	413840	Балаково	Шевченко	7
+Розница Андрей Александрович	+7(49673)762387	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142253	Серпухов	лесная	7
+Туаллагов Олег	+79672121333	NULL	NULL	NULL	NULL	NULL	NULL	NULL	363410	Дигора	Чихавиева	89
+Юрченко Нелли	+7 (928) 2111205	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352333	Усть-Лабинск	Пионерская	71
+Юрченко Нелли Викторовна	+7 (928) 2111205	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352333	Усть-Лабинск	пионерская	71
+титова елена юрьевна	89165334949	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141707	Долгопрудный	новый бульвар	18
+Ямаев Айваз Зайтунович	+7 (919) 6944322	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423950	Уруссу	Шамкина	48
+Немчанинов Анатолий Евгеньевич	89994638173	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630123	Новосибирск	студенческая	19
+уваров.сергей.валентинович	+7 (963) 7259371	NULL	NULL	NULL	NULL	NULL	NULL	NULL	397350	Поворино	ломоносова	44
+Голаева Султана Хайбулаевна	+79215667457	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187620	Санкт-Петербург	белоусова	3
+Черных Владимир	+7 (967) 7144500	NULL	NULL	NULL	NULL	NULL	NULL	NULL	188810	Выборг	Сухова	6
+Григорий Сергеевич Ерохов	+7 9065048311	NULL	NULL	NULL	NULL	NULL	NULL	NULL	241007	Брянск	3 Июля	5
+Колбудаев Никита Алексеевич	89376404068	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443045	Самара	Революционная	88
+Бабкина Дарья Юрьевна	89829917356	NULL	NULL	NULL	NULL	NULL	NULL	NULL	426060	Ижевск	9 Января	161
+Жигарева Галина Николаевна	89206676681	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214036	Смоленск	попова	116
+Перепелкин Евгений Вячеславович	+7 (8312) 178936	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603053	Нижний Новгород	Дьяконова	44
+царик сергей	+375 (297) 165737	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214016	Смоленск	попова	74
+Виктория Лисицкая	+79202206131	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394000	Воронеж	Владимира Невского	25/8
+Кузнецов Константин Борисович	+7 (909) 1080800	NULL	NULL	NULL	NULL	NULL	NULL	NULL	614056	Пермь	Сигаева	4
+Ирина Владимировна	89158215778	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153032	Иваново	Ташкентская	107А
+Симуков Сергей Николаевич	+79095768473	NULL	NULL	NULL	NULL	NULL	NULL	NULL	180016	Псков	шестака	12
+долгих максим владимирович	+79052088400	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187556	Тихвин	3 микрорайон, д.12	12
+Нефёдова Дарья Александровна	89203935799	NULL	NULL	NULL	NULL	NULL	NULL	NULL	157460	Макарьев	Дорожная	3
+Дегелевич Виктор Георгиевич	+79629494096	NULL	NULL	NULL	NULL	NULL	NULL	NULL	213800	Бобруйск	горелика	61
+Черепанова Людмила	9119647408	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195252	Санкт-Петербург	Карпинского	28
+Павленчик Юлия Андреевна	+7 (495) 7048978	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109431	Москва	Привольная	73
+Абуева Марха Мусаевна	+7(928) 0036181	NULL	NULL	NULL	NULL	NULL	NULL	NULL	366511	Грозный	Т.Эльдерханова	38
+потапов алексей васильевич	89826663410	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623950	Тавда	Кренкеля	71
+Янке Юлия Валерьевна	89262674553	NULL	NULL	NULL	NULL	NULL	NULL	NULL	112309	Москва	Сеславинский	8
+Минькова Наталья Вячеславовна	+375(29) 7157452	NULL	NULL	NULL	NULL	NULL	NULL	NULL	210038	Витебск	победы	6
+Трифонов Дмитрий Андреевич	+7(926)0919731	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115201	Москва	Котляковская	3
+Базарова Елизавета Искандеровна	+7(951)7209293	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173008	Великий Новгород	Щусева	4
+Габдрахманов Диля Салахетдиновна	+7 (8555) 532140	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423701	Мензелинск	Мусы Джалиля	69
+Сафонова Наталья Александровна	+79140906474	NULL	NULL	NULL	NULL	NULL	NULL	NULL	655017	Абакан	Кати Перекрещенко	16
+Коробченко Виктор	+7 (9657256222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	152153	Ростов	ленинская	64а
+водитель Виталий	9184872043	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192288	Санкт-Петербург	,бухаретская	230
+Королюк Константин Андреевичь	89889673830	NULL	NULL	NULL	NULL	NULL	NULL	NULL	403002	Волгоград	дачная	4
+Павлюченков Дмитрий Влодимеровичь	89045173599	NULL	NULL	NULL	NULL	NULL	NULL	NULL	187060	Любань	моссковское	29
+Лагун Николай Александрович	+7(911)5913178	NULL	NULL	NULL	NULL	NULL	NULL	NULL	164173	Мирный	Советская	4
+Русу Валерий Александрович, Анастасия	+79296640049	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142432	Черноголовка	ул. Центральная	18
+Замышляев Е.А.	89155066763	NULL	NULL	NULL	NULL	NULL	NULL	NULL	303720	Верховье	Советская	55
+Березовская Марина Александровна	89671079770	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140206	Воскресенск	Рабочая	117
+Тумалаева Нурижат Микдадовна	89285014940	NULL	NULL	NULL	NULL	NULL	NULL	NULL	368615	Махачкала	И.Казака	35м
+Степанов Олег	+79807487001	NULL	NULL	NULL	NULL	NULL	NULL	NULL	150006	Ярославль	ул.Светлая д1 кв75	1
+Чернусский Артём Николаевич	+79222074020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628405	Сургут	Югорская	15
+Бровкина Ольга	89308758000	NULL	NULL	NULL	NULL	NULL	NULL	NULL	391440	Сасово	Делегатская	64
+Оксана Безверхая	+7(921)5815886	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192007	Санкт-Петербург	Прилукская	15
+Инюшов Александр А.	89278038391	NULL	NULL	NULL	NULL	NULL	NULL	NULL	433760	Ульяновск	мкр южный	10
+Алексей Муравьев	+7 (906) 1145484	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420047	Казань	Малая армавирская	136
+Мурыгин Виктор	+7 (915) 5646010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	306800	Горшечное	Кирова	82
+Хафизов Альфир Исмагзамович	+79221981346	NULL	NULL	NULL	NULL	NULL	NULL	NULL	624356	Качканар	Ермака	102
+Хаджанов Айрат Саитгареевич	89227717717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628417	Сургут	Ленина	34
+Наумкин Алексей	+7(930)8020322	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603135	Нижний Новгород	ленина	43
+Мухамедшин Р.М.	+79147079279	NULL	NULL	NULL	NULL	NULL	NULL	NULL	690068	Владивосток	Кирова	25е
+Мелентьев Александр Евгеньевич	+7(965) 1800687	NULL	NULL	NULL	NULL	NULL	NULL	NULL	108804	Кокошкино	Труда	5
+костерин владимир сергеевич	+7(982)3278288	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454081	Челябинск	победы	141
+Насибов Г,Ч	+7 (909) 1402695	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610006	Киров	возрождения	4
+Лебедев Виктор Валерьевич	+7(913)5321721	NULL	NULL	NULL	NULL	NULL	NULL	NULL	660077	Красноярск	Молокова	1
+Сафронов Сергей Анатольевич	+79140906474	NULL	NULL	NULL	NULL	NULL	NULL	NULL	655017	Абакан	Кати Перекрещенко	16
+Куччаев Джабраил	89264449468	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140074	Томилино	Птицефабрика	28
+Гамаюнов Денис Владимирович	+79085462222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410036	Саратов	огородная	144
+каверин игорь николаевич	+7(980)3785167	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309994	Валуйки	пархоменко	24
+Ямушева Бэла Викторовна	+7 (983) 2170026	NULL	NULL	NULL	NULL	NULL	NULL	NULL	650065	Кемерово	ленинградский	5а
+Калашников Андрей Сергеевич	89676556598	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350012	Краснодар	Академика Лукяненко	18
+Подпольный Сергей Васильевич	+7 (918) 1614558	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353780	Калининская	1 М/р	1
+Тофик	+79134507626	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630059	Новосибирск	Старое шоссее	65
+Донцов Евгений Вадимович	89092880141	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603157	Нижний Новгород	Буревестника	9
+Ямщиков Иван Владимирович	89223184448	NULL	NULL	NULL	NULL	NULL	NULL	NULL	614101	Пермь	Закамская	37а
+Роман Эдуардович Романько	89885734534	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347460	Зимовники	савина	5
+шмыров сергей васильевич	89195172439	NULL	NULL	NULL	NULL	NULL	NULL	NULL	г.Киров	Киров	зеленая	58
+Федяев Сергей Вениаминович	+7 (982) 9982654	NULL	NULL	NULL	NULL	NULL	NULL	NULL	426011	Ижевск	10 лет Октября	5
+Сурков Владислав Владимирович	+79134729222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630132	Новосибирск	1905 года	59
+Сергей, Сергей	+79640757813	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603116	Нижний Новгород	Народная	45
+Тюмков Андрей Юрьевич	+7(982)9964605	NULL	NULL	NULL	NULL	NULL	NULL	NULL	426000	Ижевск	Степана разина	65
+Гражданкин Алексей	89613044466	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344015	Ростов-на-Дону	Еременко	85
+Тимофеева Вероника Николаевна	89003239333	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423520	Заинск	Орджоникидзе	118
+Фазлыева Гузель Рифгатовна	+7 (8552) 792734	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423826	Набережные Челны	чулман	110
+Дмитрий (Требуется логист)	+7(922)6788008	NULL	NULL	NULL	NULL	NULL	NULL	NULL	640011	Курган	Достоевского	67
+Борисов Владислав Андреевич	89041618919	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Екатеринбург	предельная	2
+Сиятилев А.В.	89099234353	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119619	Москва	Авиаторов	13
+Ермохина Елена Васильевна	+7(964) 5119112	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143306	Наро-Фоминск	рижская	1а
+Волобуева Ирина	+7 (903) 8229009	NULL	NULL	NULL	NULL	NULL	NULL	NULL	150063	Ярославль	Труфанова	13
+Костыря Роман Вадимович	+7 (831) 4105522	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603069	Нижний Новгород	Мостоотряда	29
+Самсонов Дмитрий	+7(928)1888967	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346503	Шахты	Рудничный	18
+Балакирева Раиса Анатольевна	89030618889	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422983	Чистополь	энгельса	187
+Соврасов Алексей	89056054644	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170026	Тверь	горького	15
+Тимофеев Юрий Владимирович	+79279711970	NULL	NULL	NULL	NULL	NULL	NULL	NULL	431700	Чамзинка	Советская	91
+Голубков Александр Владимирович	89854889801	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141900	Талдом	ахтимнеево	35
+Ольга Крылова	+7 (904) 0323199	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601352	Судогда	Красная	47
+Зайлямов Алексей рамазанович	+79126507360	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623100	Первоуральск	Береговая	42
+Михеев Александр Александрович	89034045612	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346351	Красный Сулин	Московская	36
+Василина	+79060331931	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420073	Казань	Гвардейская	9
+Малинина Наталия Анатольевна	+7(49331)93376	NULL	NULL	NULL	NULL	NULL	NULL	NULL	155801	Кинешма	Ул.Гражданская	16
+Соловьев Д	89039900060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656049	Барнаул	ядринцева	82
+Муравьева Юлия Алексеевна	89081510809	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606495	Линда	кирова	11
+ВЕРЕЗУБ ДЕНИС	+7 (918) 8569858	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344506	Шахты	космическая	19
+Ковалев Евгений Сергеевич	+7(925)8941030	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141200	Пушкино	Набережная	35
+Попрядухина Наталья Николаевна	89038997082	NULL	NULL	NULL	NULL	NULL	NULL	NULL	156016	Кострома	бульварная	17
+Ксения (диспетчер)	+7 (906) 3609805	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603124	Нижний Новгород	Болотникова	9
+Малыхин Алексей Дмитриевич	89635168511	NULL	NULL	NULL	NULL	NULL	NULL	NULL	692930	Находка	Бокситогорская	49б
+Вересинин Андрей Юрьевич	+372 6555411	NULL	NULL	NULL	NULL	NULL	NULL	NULL	13914	Таллинн	Priisle tee	16
+Шевчук Анатолий Александрович	+7(48445)22756	NULL	NULL	NULL	NULL	NULL	NULL	NULL	249340	Жиздра	Строителей	40
+Борисова Юлия Викторовна	+7(967) 6500123	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352290	Отрадная	мира	15
+Людмила,Денис	+7 (908) 3027588	NULL	NULL	NULL	NULL	NULL	NULL	NULL	429954	Новочебоксарск	речной	4
+Мукаев  Анвар Бадикович	89873884488	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410003	Саратов	симбирская	136
+Мелкий Андрей Николаевич	89811702896	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196607	Санкт-Петербург	Магазейная	3
+Пластинин Евгений Евгеньевич	+79324707067	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625031	Тюмень	Дружбы	169
+Григоренко Елена Михайловна	89181462838	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350080	Краснодар	сормовская	104
+Понизовский Николай Николаевич	+7(812) 7415073	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198320	Санкт-Петербург	Нарвская	12
+Горячев Владимир Иванович	89162228146	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347320	Ростов-на-Дону	Лесная	18
+Артюшин Сергей	+7 (3852) 694080	NULL	NULL	NULL	NULL	NULL	NULL	NULL	656021	Барнаул	болотный	2
+Аркадий Анатольевич	+7 (922) 1171100	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623700	Березовский	Ленинский	26
+Александрова Лариса	+7 (983) 6064838	NULL	NULL	NULL	NULL	NULL	NULL	NULL	658031	Тальменка	тихий	14
+Бобинова Марина	+7 (968) 1062842	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644073	Омск	Бережного	6А
+Стефашина Оксана	+7(917)0135526	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443063	Самара	Александра Матросова	53
+Рубанов Сергей Игорьевич	89278015435	NULL	NULL	NULL	NULL	NULL	NULL	NULL	433734	Ульяновск	гагарина	7
+Егоров Сергей Кириллович	+7 (3473) 253338	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453112	Стерлитамак	спокойная	23
+Баранова Светлана Ивановна	89169146545	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127644	Москва	Лобненская	15
+Надежин Ю.В.	+7 (915) 9677163	NULL	NULL	NULL	NULL	NULL	NULL	NULL	150033	Ярославль	блюхера	82а
+Алексей Авершин	+7 (952) 4391217	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308503	Белгород	садовая	6
+Ухлин Александр	89818308767	NULL	NULL	NULL	NULL	NULL	NULL	NULL	663300	Норильск	богдана-хмельницкого	29
+Семак Владислав Григорьевич	+7(961) 4929023	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355042	Ставрополь	Пирогова	98
+Халимов Руслан Ринатович	+7(846)2312583	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443086	Самара	Мичурина	128
+гусев николай игоревич	89103953008	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606210	Лысково	Казанская	4
+Арсентьев Валерий Геральдович,	+7 (937) 3985797	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428010	Чебоксары	Геннадия айги	13
+Сергей Бузин	89778609325	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123458	Москва	Твардовского	25
+Чалмаева Александр	89090035496	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620130	Екатеринбург	Юлиуса Фучика	5
+владимир россов	89148948380	NULL	NULL	NULL	NULL	NULL	NULL	NULL	664081	Иркутск	трилиссера	120
+Ильгизар	+7 (963) 2373977	NULL	NULL	NULL	NULL	NULL	NULL	NULL	452755	Туймазы	Островского	5
+Лысенко Оксана Александровна	+7 (978)8251283	NULL	NULL	NULL	NULL	NULL	NULL	NULL	295493	Симферополь	Кржижановского	3
+Ирина,	89095179490	NULL	NULL	NULL	NULL	NULL	NULL	NULL	654002	Новокузнецк	Разведчиков	54
+Михаил Олегович	+7 (966) 0290937	NULL	NULL	NULL	NULL	NULL	NULL	NULL	108803	Москва	пос.Воскресенское	12Б
+Чехронов Юрий Сергеевич	89266057202	NULL	NULL	NULL	NULL	NULL	NULL	NULL	163021	Архангельск	Никольский	32
+Ладенко Валерий Владимирович	+7(937)2250951	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410009	Саратов	2-ой Украинский	8
+Могитич Роман Михайлович	+7 (926) 9649453	NULL	NULL	NULL	NULL	NULL	NULL	NULL	Московская	Клин	60 лет Комсомола	12
+Гусев Сергей Васильевич	+7(927)8857272	NULL	NULL	NULL	NULL	NULL	NULL	NULL	424002	Йошкар-Ола	первомайская	116
+Людмила/Ольга	+7 (918) 6324349	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352506	Лабинск	Волжская	26
+Антипов Кирилл Вчеславович	89191692243	NULL	NULL	NULL	NULL	NULL	NULL	NULL	398024	Липецк	Воровского	12
+расим шерифов	89319726979	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195298	Санкт-Петербург	ладожская	77
+Швец Анна	+7(918) 4006845	NULL	NULL	NULL	NULL	NULL	NULL	NULL	354065	Сочи	Красноармейская	27
+Трубников Александр Иванович	9289099672	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344048	Ростов-на-Дону	Н. Руднева	12
+Антропова Татьяна Ивановна	+79041774785	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620146	Екатеринбург	Амундсена	55
+Егор Кузьмич	+7(915) 6382953	NULL	NULL	NULL	NULL	NULL	NULL	NULL	105037	Москва	Парковая 2 я	12
+Селиванова Елена	+7 (912) 3422513	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460021	Оренбург	Карагандинская	39/1
+Лаптев Федор Алексеевич	89184429235	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350000	Краснодар	Кирова	41
+Карен Мартиросян	+79264591308	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109451,	Москва	Мячковский	9
+Никитин Сергей Викторович	+7(4812)54442	NULL	NULL	NULL	NULL	NULL	NULL	NULL	215805	Ярцево	энтузиастов	35
+Алексей Леонидович	9165334949	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141707	Долгопрудный	новый бульвар	18
+Евгений Голощапов Владимирович	89032903735	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127000	Москва	московская	12
+Купин Илья Игоревич	89993777655	NULL	NULL	NULL	NULL	NULL	NULL	NULL	600028	Владимир	горького	113б
+федяева татьяна михайловна	8-904-095-41-60	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309181	Белгород	раевского	22
+Соловьёв Евгений Николаевич	+7 (921) 3988415	NULL	NULL	NULL	NULL	NULL	NULL	NULL	161140	Устье	Зелёная	17
+манько сергей васильевич	89136023819	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644504	Омск	Бульвар Архитекторов	12
+Шадский Олег Юрьевич	89252426131	NULL	NULL	NULL	NULL	NULL	NULL	NULL	123154	Москва	Генерала Глаголева	20
+Римский Валерий Викторович	+7(964) 8668190	NULL	NULL	NULL	NULL	NULL	NULL	NULL	440067	Пенза	Медицинская	5
+идрисов вадим васимович	+7 (904) 0193884	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170001	Тверь	б-р ногина	9
+Карелин Сергей Георгиевич	+7(3952) 720130	NULL	NULL	NULL	NULL	NULL	NULL	NULL	664056	Иркутск	мкр. Приморский	35
+Зайцева Татьяна Фёдоровна	+7 (913) 9674104	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644059	Омск	Космический	91
+Павлов Николай Алексеевич	89226545713	NULL	NULL	NULL	NULL	NULL	NULL	NULL	628414	Сургут	Толстого	26
+Комаров Наталья	+79260626181	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117042	Москва	Южнобутовская	42
+Глебова М.С.	89505836048	NULL	NULL	NULL	NULL	NULL	NULL	NULL	653052	Прокопьевск	есенина	36
+Корюкин Павел Семенович,ИП	+7 (919) 5641864	NULL	NULL	NULL	NULL	NULL	NULL	NULL	641310	Кетово	советская	56
+Андрей Г.Т.	9857681331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117279	Москва	введенского	24
+Потапов Юрий Владимирович	+7(8452)467081	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410035	Саратов	зыбина	8
+Паньков Денис Станиславович	+7 (988) 5197710	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346884	Батайск	Тельмана	10
+Кучун Андрей	+77017144952	NULL	NULL	NULL	NULL	NULL	NULL	NULL	100029	Караганда	Бабушкина	21
+Стартов Индия Магсумянович	+79177500530	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450100	Стерлитамак	Южная	155
+Адуллин Айрат Рузалимович	9875857725	NULL	NULL	NULL	NULL	NULL	NULL	NULL	452689	Нефтекамск	Энергетиков	7
+Бойцова Анастасия Петровна	89996850517	NULL	NULL	NULL	NULL	NULL	NULL	NULL	665708	Братск	кирова	35
+Айбатов Рифат Илфатович	+79507229966	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456300	Миасс	школьная	171
+Мартышин Дмитрий Сергеевич	89381001013	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346500	Шахты	Ионова	147
+Габдрахманова Лейсан Флитовна	+7(987)2929515	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423603	Елабуга	Нефтяников	68
+Владимирова Анна	+7 (985) 4100992	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125239	Москва	михалковская	17
+Shamil Maratovich Hizbullin	+79193533288	NULL	NULL	NULL	NULL	NULL	NULL	NULL	455038	Магнитогорск	К.Маркса	168
+Гринько Ю И	89052142288	NULL	NULL	NULL	NULL	NULL	NULL	NULL	188644	Всеволожск	Александровская	81
+Герасимов Игорь	+79204787676	NULL	NULL	NULL	NULL	NULL	NULL	NULL	392000	Тамбов	Рабочая	42
+хренов Владимир	89066177999	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153024	Иваново	межсоюзный	16
+Подтыканова Оксана Сергеевна	+7(863)7499751	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347540	Пролетарск	транспортная	8
+Кононова Ирина Николаевна	89178505713	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423455	Альметьевск	Сыртлановой	7
+Дунаева Кристина	89209230714	NULL	NULL	NULL	NULL	NULL	NULL	NULL	600021	Владимир	красноармейская	22
+Яковлева Ольга Михайловна	89109331450	NULL	NULL	NULL	NULL	NULL	NULL	NULL	172840	Торопец	ул,бердыши	57
+ЮЗА-Опт	+7 (3812) 211075, 209	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644007	Омск	Яковлева-Гусарова	163/4
+Дербишевич Станислав Гаджорович	+7 (86166) 68080	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353230 Кра	Ильский	Ленина	154
+Шеляг Игнорь Алексеевич	+7(915)2981413	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143401	Красногорск	Подмосквоный бульвар	12
+Кузьмин Юрий Владимимрович	+79853449300	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125635	Москва	Базовская	22
+Михайлов Алексей Михайлович	+79104265972	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142900	Кашира	Урицкого	5
+Назаров Евгений Игоревич	+79283140937	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355008	Ставрополь	Селекционная	5Б
+Неврет Камалов	+7 (965) 5888506	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420104	Казань	Зорге	60
+Гусев Андрей Сергеевич	+7 (960) 8360824	NULL	NULL	NULL	NULL	NULL	NULL	NULL	44500	Тольятти	самарская	2
+Золотарева Анастасия	+7 (965) 3598800	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117570	Москва	Днепропетровская	18
+Успаев Аюб Майрбекович	89280189863	NULL	NULL	NULL	NULL	NULL	NULL	NULL	336049	Грозный	Tuhachevskogo	39
+Затонский  Сергей Юрьевич	+7 (913) 9494010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630045	Новосибирск	Житомерская	18/2
+Сафин Айдар Мирасович	8-917-47-87-546	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450099	Уфа	Б. Бикбая	22
+Нигмедзянова Лейсана	79178547294	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420101	Казань	Карбышева	61
+Маркова Татьяна Ивановна	89507714159	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394028	Воронеж	Циолковского	113
+Соколова Ольга Олеговна	89308892627	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390039	Рязань	Бирюзова	22
+Саркисян Гамлет Самвелович	+7(4922) 426641	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601362	Бараки	Лесная	3
+Балалаев Игорь Вячеславович	+7(909)2594300	NULL	NULL	NULL	NULL	NULL	NULL	NULL	215500	Сафоново	Революционная	4
+Калачев Игорь Александрович	+7(910) 6627309	NULL	NULL	NULL	NULL	NULL	NULL	NULL	152260	Некрасовское	парковая	5
+Симонов Роман Владимирович	89630174718	NULL	NULL	NULL	NULL	NULL	NULL	NULL	614038	Пермь	юрлинская	39
+Березин Дмитрий Юрьевич	+7(8332) 522109	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610048	Киров	производственная	5
+Ярушин Юрий Юрьевич	89117839500	NULL	NULL	NULL	NULL	NULL	NULL	NULL	195213	Санкт-Петербург	Гранитная	28
+Климентьев Антон Валерьевич	+7 (999) 2130281	NULL	NULL	NULL	NULL	NULL	NULL	NULL	196247	Санкт-Петербург	Ленинский	149
+Самойлов Анатолий	+7 (939) 7543216	NULL	NULL	NULL	NULL	NULL	NULL	NULL	445057	Тольятти	Спортивная	16
+Федун Игорь Юрьевич	+7 (983) 5256514	NULL	NULL	NULL	NULL	NULL	NULL	NULL	644123	Омск	70 Лет Октября	18
+Екатерина (руководитель)	+7 (905) 6048889	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170021	Тверь	Плеханова	30
+Огай Сергей Викторович	89265362222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140013	Люберцы	Комсомольский	24/2
+Булатов Альфред Фларидович	+7 (982) 7457922	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620012	Екатеринбург	космонавтов	7
+Шибаков Евгений Валентинович	+7 (911) 6033304	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173021	Великий Новгород	кочетова	37
+Антон Франко	+7 (495) 6695179	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127015	Москва	ул. Б. Новодмитровская	36
+Юферев Евгений	+7 (495) 7283628	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115404	Москва	6-ая Радиальная	5
+Добычин Дмитрий Анатольевич	89128950300	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454100	Челябинск	Салавата Юлаева	6
+Богданова Татьяна	+7 (495) 6695179	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127015	Москва	ул. Б. Новодмитровская	36
+Каплюк Сергей Владимирович	+7 (8634) 671803	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347910	Таганрог	5-й Артиллерийский	90
+Суханов Сергей Васильевич	89109017331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390006	Рязань	Речников	1
+Медведева Елена Сергеевна	9169147311	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127081	Москва	Ясный проед	8
+Фисунова Людмила  Александровна	+7(922)6080060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	625029	Тюмень	верхнетарманская	20
+Олеся Анатольевна	+7(928)3620101	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357203 г.	Минеральные Воды	Железноводская	24
+Тремба В.А.	89613177890	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346537	Шахты	творческая	4
+Гусейн	89634356466	NULL	NULL	NULL	NULL	NULL	NULL	NULL	367000	Махачкала	Кайтуева	27
+Янов Зиннур Дилшатович	79991629891	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423800	Набережные Челны	вахитова	27
+Братова Светлана Наурузовна	89283875051	NULL	NULL	NULL	NULL	NULL	NULL	NULL	396000	Черкесск	свободы	62
+Лукьяненко Дмитрий Михайлович	79204804007	NULL	NULL	NULL	NULL	NULL	NULL	NULL	392000	Тамбов	Рабочая	4Б
+Смелов Олег Владимирович	+7 (8312) 410626	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603116	Нижний Новгород	Акимова	9
+Выскубов Николай	+7 (918) 9323988	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353221	Старомышастовская	Горького	53
+Михеев Светлана Юрьевнач	9857650480	NULL	NULL	NULL	NULL	NULL	NULL	NULL	127273	Москва	Декабристов	26
+Иванюхин Александр Владимирович	+895 (214) 77757	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622000	Нижний Тагил	Красноармейская	109
+Арсланов Марат Талгатович	89177710433	NULL	NULL	NULL	NULL	NULL	NULL	NULL	453128	Стерлитамак	Коммунистическая	20
+Аркадьева Валентина Николаеввна	+79118643446	NULL	NULL	NULL	NULL	NULL	NULL	NULL	236004	Калининград	Дзержинского	96А
+Валентин Лобов	89150928985	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143401	Красногорск	Павшинский бульвар, д.18, кв. 66	18
+Рамиль Фагимович	+7 (929) 7235015	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422430	Буинск	Гагарина	21
+Якупов Ринат	+7 (917) 7656721	NULL	NULL	NULL	NULL	NULL	NULL	NULL	450097	Уфа	5 оайонная	16
+Зарипов Марат Файзулгаянович	89625795539	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423810	Набережные Челны	Московский	141
+Аглеримян Ашот Аршакович	89198862328	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344092	Ростов-на-Дону	ул.королева	8
+Цыбас Ю..	89039693449	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115407	Москва	судостроительная	47
+гуляев дмитрий	+79222128947	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622018	Нижний Тагил	Алтайская	49
+Нафигуллин Рамиль Альфикович	+7 (927) 6923326	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443070	Самара	Херсонская	81
+Баженичев  Дмитрий Владимирович	+7(926)529-13-68	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115446	Москва	Академика Миллионщикова	18
+Жамакочан Яков Ильич	+7(928) 9000006	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346513	Шахты	Парижская Коммуна	45
+Олейникова Анна Сергеевна	+7 (800) 7003810	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620100	Екатеринбург	Сибирский тракт	12
+Татарченков Алексей Викторович	+7(982) 6086210	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623300	Красноуфимск	монтажников	15
+Кувшинов Иван Петрович	+7(950)5306888	NULL	NULL	NULL	NULL	NULL	NULL	NULL	410010	Саратов	им. Осипова	1
+Баженичев Дмитрий Владимировия	+7(926)5291368	NULL	NULL	NULL	NULL	NULL	NULL	NULL	115446	Москва	Академика Миллионщикова	18
+Михалицын Юрий Владимирович	+7 (8332) 447230	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610035	Киров	Чапаева	11
+Олег, Виктория	9103605396	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308009	Белгород	народный	48
+Владимир Иванович Павлов	89178229205	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443106	Самара	Стара-Загора	287
+Репин Артём Владимирович	89184842036	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352332	Усть-Лабинск	Южная	8
+Ковырзин Максим Геннадьевич	+7(920)2574516	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603132	Нижний Новгород	адмирала Макарова	14
+Турчанинов Владимир Александрович	+7(4732) 218717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	394057	Воронеж	Гоголя	5
+Сатюков Виталий Юрьевич	+7(916)2635557	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109507	Москва	Ферганская	30
+Cедов Николай Николаевич	+79209996776	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390013	Рязань	timakova 34-30	34
+Иванова Анатасия Александровна	89220251056	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620017	Екатеринбург	Старых большевиков	3а
+Шестаков Евгений	89141587262	NULL	NULL	NULL	NULL	NULL	NULL	NULL	680021	Хабаровск	Жданова	16
+Исаков Дмитрий Васильевич	89630006717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610011	Киров	Мелькомбинатовский пр- д	7
+тихонов.а.с	+7 (951) 0763118	NULL	NULL	NULL	NULL	NULL	NULL	NULL	47148	Железногорск	советская	16
+Малютин Павел	89648751284	NULL	NULL	NULL	NULL	NULL	NULL	NULL	442963	Заречный (Закрытый)	зеленая	9
+Нежельская Анна - WWW.GCP.SU	+7 (911) 9913366	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143025	Немчиновка	Рублевский	27
+Скоромный Вячеслав Вячяславович	+7 (918) 2433379	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352190	Гулькевичи	Юбилейная	65
+Чеботарев Александр Владимирович	+7(910)3959411	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606100	Павлово	Полевая	33
+Витулев Сергей	89379869886	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443044	Самара	офицерская дом 102	102
+ГАЛАЯН АНДРЕЙ ГРИШЕВИЧ	+7(962)4439423	NULL	NULL	NULL	NULL	NULL	NULL	NULL	355016	Ставрополь	РАДУЖНАЯ	5
+Андреев Константин	+79215565555	NULL	NULL	NULL	NULL	NULL	NULL	NULL	194358	Санкт-Петербург	Николая Рубцова	12
+Агафонова Н.Р.	+7(905)3999972	NULL	NULL	NULL	NULL	NULL	NULL	NULL	404127	Волжский	Дружбы	43
+Татьяна Васильевна	+7(831)2705526	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603044	Нижний Новгород	Героев	23
+Магомеднабиев Магомед	9281437777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	368008	Хасавюрт	13	66
+Гранкина Ольга Сергеевна	+7 (9652237997)	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141411	Москва	Солнечная	1
+МАЛЫШЕВ СЕРГЕЙ	+7 (910) 3892909	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606036	Дзержинск	МОЛОДЕЖНАЯ	12А
+Якубец Роман Дмитриевич	89121031770	NULL	NULL	NULL	NULL	NULL	NULL	NULL	309085	Томаровка	малиновского	14
+Багрова Светлана Константиновна	+7 (918) 3263507	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350089	Краснодар	Бульварное кольцо	15
+Радаев Петр Николаевич	+7(49624)35763	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141612	Клин	Гагарина	57
+Суходольский Сергей Валентинович	89107156994	NULL	NULL	NULL	NULL	NULL	NULL	NULL	214005	Нижний Новгород	Гжатская	6
+Пискунова Ирина Владимировна	+7(39022) 2285830, 285830	NULL	NULL	NULL	NULL	NULL	NULL	NULL	655004	Абакан	Ленина	218а
+Леонов Андрей Леонидович	+7(988)6041862	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353793	Старовеличковская	Заречная	51
+Теплов Евгений Геннадьевич	+79163862636	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117628	Москва	Ленинградский	63
+А, Маргарита Николаевна	+7 (905) 4128207	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357700	Кисловодск	Победы	151
+Карпинский Александр	+79017768156	NULL	NULL	NULL	NULL	NULL	NULL	NULL	125464	Москва	Пятницкое	14
+Медведев Алексей Валентинович	89113617935	NULL	NULL	NULL	NULL	NULL	NULL	NULL	182670	Дно	Невская	39
+Филимонов Владимир Михайлович	+7(913) 4451235	NULL	NULL	NULL	NULL	NULL	NULL	NULL	655721	Бирикчуль	Молодежный	3
+Краев Андрей Павлович	89638891726	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610025	Киров	Слобода Столбики	4
+Стрельников Владимир Дмитриевич	+7 (952) 3573587	NULL	NULL	NULL	NULL	NULL	NULL	NULL	188660	Санкт-Петербург	шоссейная	39
+Пракудин Сергей Владимирович	+79058997313	NULL	NULL	NULL	NULL	NULL	NULL	NULL	462430	Орск	Добровольского	10б
+Натела	9312756646	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198516	Санкт-Петербург	Жарновецкого	4
+Лобанов Евгенийй Николаевич	+79991456697	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423033	Йошкар-Ола	петрова	5
+Эгри Ольга Владимировна	89601526522	NULL	NULL	NULL	NULL	NULL	NULL	NULL	399770	Елец	Клубная	6
+Варламова Елена Николаевна	+7(4922)530325	NULL	NULL	NULL	NULL	NULL	NULL	NULL	600000	Владимир	октябрьский	25-60
+Максим Валериевич	+7 (922) 0077979	NULL	NULL	NULL	NULL	NULL	NULL	NULL	626191	Туртас	Молодежная	54а
+Анна Юрьевна	89513802186	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630022	Новосибирск	Пер. 14-й Бронный	85
+Денега Алексей Петрович	89892906110	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352690	Апшеронск	Норильская	28
+прибыльский с.п	9289674444	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347630	Сальск	киевская	35
+Загодиренко Роман Васильевич	79104377717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142117	Подольск	Флотский	1
+Гаврилюк Анастасия Михайловна	+79823821355	NULL	NULL	NULL	NULL	NULL	NULL	NULL	612990	Сосновка	Трудовые резервы	35
+Гацман И.А	+7(9624098864	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357500	Пятигорск	ФЕВРАЛЬСКАЯ	49
+Яблонский Евгений Викторович	+7 (906) 1800003	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346250	Боковская	Луговая	17
+Молекян Алина Симоновна	89604583935	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344111	Ростов-на-Дону	ростов на дону ул. Герцена 288	288
+Бигель Павел Игоревич	+7 (985) 9957993	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143005	Одинцово	Можайское шоссе	80
+Вихлянцев Иван Михайлович	89275224185	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400088	Волгоград	муромская	15
+Акимов Анатолий Алексеевич	9193779717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Екатеринбург	Рябинина	23
+Петров Владимир Михайлович	+7(928)9653840	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344020	Ростов-на-Дону	днепропетровская	2/3
+Антоненко Ирина Викторовна	+7 (34542) 60881	NULL	NULL	NULL	NULL	NULL	NULL	NULL	627142	Заводоуковск	Тюменская	11
+Фёдоров Владимир	+7 (928) 3574447	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357623	Ессентуки	свердлова	1
+Корсун Лидия Владимировна	89831236149	NULL	NULL	NULL	NULL	NULL	NULL	NULL	630106	Новосибирск	Петухова	94
+Зиберт Евгений	+7 (913) 5361771	NULL	NULL	NULL	NULL	NULL	NULL	NULL	662315	Шарыпово	3	2
+Лаврентьев Алексей	+7(982)6652022	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620102	Екатеринбург	Посадская	32
+Яранов Юрий Николаевич	+7(812)7007446	NULL	NULL	NULL	NULL	NULL	NULL	NULL	192076	Санкт-Петербург	CПБ Рыбацкий пр.	47
+Калининина Налья Ивановна	+79163284981	NULL	NULL	NULL	NULL	NULL	NULL	NULL	142121	Подольск	генерала Смирнова	4
+Афанасьев Владимир Васильевич	+7 9896259695	NULL	NULL	NULL	NULL	NULL	NULL	NULL	347382	Волгодонск	индустриальная	16
+ГИСМАТУЛЛИНА ВЕРА СЕРГЕЕВНА	+7(919)9294150	NULL	NULL	NULL	NULL	NULL	NULL	NULL	626020	Нижняя Тавда	степная	5
+Владимир Генадьевич	+7(351) 2798801	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454010	Челябинск	Гагрина	12
+Утеев Серикбай Кенжигалиевич	89618165854	NULL	NULL	NULL	NULL	NULL	NULL	NULL	414009	Астрахань	Астрахань, Ул. Кавказская. Д.143	143
+Громова Мрия игоревна	89673372222	NULL	NULL	NULL	NULL	NULL	NULL	NULL	414006	Астрахань	Горская	31
+Алиев Довлат	89126158935	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620137	Екатеринбург	июльская	21
+Трифонова Мария	89108713615	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607247	Арзамас	лилуевой	75
+Саимов  Максим  Эдуардович	+7 (962) 1588581	NULL	NULL	NULL	NULL	NULL	NULL	NULL	155000	Гаврилов Посад	1  совхозный	10
+Федоров Алексей Валерьевич	89320522007	NULL	NULL	NULL	NULL	NULL	NULL	NULL	629300	Новый Уренгой	губкина 28	28
+АКОПЯН ОГАНЕС ШАЛВОВИЧ	89056152442	NULL	NULL	NULL	NULL	NULL	NULL	NULL	601240	Лакинск	жуковского	87
+Новак Михаил Владимирович	89615030767	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353143	Краснодар	крылатская	19
+Сергей,Наталья	89281006656	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346351	Красный Сулин	октябрьская	127
+Бессарабов Александр Анатольевич	+79613945299	NULL	NULL	NULL	NULL	NULL	NULL	NULL	350901	Краснодар	40 лет Победы	146
+Трубеев Алексей Николаевич	+79514474532	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456323	Миасс	малышева	58\56
+Дмитрий Гарцев Анотольевич	+375 (33) 6365024	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400079	Волгоград	64-армии	137
+Можейко Максим	+7 (962) 4716055	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420087	Казань	карбышева	13
+кудрявцев герман  валерьевич	+7 (920) 0114566	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606407	Балахна	молодужный	4
+Коляда Юрий	+7 (903) 4585576	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353600	Староминская	70 лет октября	41
+Средних Елена Генадьевна	+7 9066635700	NULL	NULL	NULL	NULL	NULL	NULL	NULL	302040	Орел	Московская	43
+Пшихачев Анзор Лионович	+79677140007	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603033	Нижний Новгород	Архангельская	17
+Галле Алексей Фридрихович	89235010283	NULL	NULL	NULL	NULL	NULL	NULL	NULL	652519	Ленинск-Кузнецкий	Менделеева	25
+Гайнулин Радим Нариманович	+79000465659	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620000	Екатеринбург	Ильича	50
+Андрюков Евгений Викторович	+7 (351) 2473717	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454071	Челябинск	Бажова	91
+Шарифуллин Альбина Наилевна	+7(919)6435010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422980	Чистополь	Пушкина	131
+Миленберг Дмитрий Викторович	89375209440	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423806	Набережные Челны	садовый	3
+Юлия Чепкасова	+7 (922) 3299704	NULL	NULL	NULL	NULL	NULL	NULL	NULL	617766	Чайковский	Пролетарская	7
+Зиля Зиргамовна	+7 (927) 3348897	NULL	NULL	NULL	NULL	NULL	NULL	NULL	452688	Нефтекамск	Строителей	75
+Путова Елена Валерьевна	+7 (4852) 468414	NULL	NULL	NULL	NULL	NULL	NULL	NULL	150010	Ярославль	пос.Октябрьский	12
+Гиззатов Радик	89093081777	NULL	NULL	NULL	NULL	NULL	NULL	NULL	420141	Казань	Юлиуса Фучика	82
+КОБЛИНОВ АЛЕКСЕЙ НИКОЛАЕВИЧ	+7 (918) 6703386	NULL	NULL	NULL	NULL	NULL	NULL	NULL	352330	Усть-Лабинск	Плеханова	94 А
+Владимир Ляпин	+7 (846) 3753638	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443113	Самара	Кирова	383
+Бастраков Игорь Валентинович	+7 (987)7267450	NULL	NULL	NULL	NULL	NULL	NULL	NULL	425450	Йошкар-Ола	Лермонтова	32
+Каминский Дмитрий Петрович	89610802259	NULL	NULL	NULL	NULL	NULL	NULL	NULL	400026	Волгоград	Героев Сталинграда	48
+Алексеева Елена Михайловна	89202313925	NULL	NULL	NULL	NULL	NULL	NULL	NULL	392000	Тамбов	рылеева	62
+Рублев Владимир Викторович	89035902165	NULL	NULL	NULL	NULL	NULL	NULL	NULL	117546	Москва	Харьковский	11
+Жуков Анатолий Владимирович	+7(967)2691789	NULL	NULL	NULL	NULL	NULL	NULL	NULL	141191	Фрязино	Нахимова	3
+Лебедева Наталья Сергеевна	+7(910) 0077509	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603107	Нижний Новгород	Ларина	28
+Волошенко Наталья	+7 (863) 2372157	NULL	NULL	NULL	NULL	NULL	NULL	NULL	344001	Ростов-на-Дону	Песчаная	17
+Якубов Дамир Энверович	89067488293	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111674	Москва	Рождественская	21
+Белов Евгений Павлович	+79193054985	NULL	NULL	NULL	NULL	NULL	NULL	NULL	455039	Магнитогорск	Московская	2
+Коробков Владимир Викторович	89267082176	NULL	NULL	NULL	NULL	NULL	NULL	NULL	143001	Одинцово	чистяковой	48
+ИП,Трусов Сергей Вениаминович	89043907320	NULL	NULL	NULL	NULL	NULL	NULL	NULL	607060	Выкса	Микрорайон Центральный	18
+Ухова Юлия Ивановна	9308390322	NULL	NULL	NULL	NULL	NULL	NULL	NULL	602205	Муром	Муромская	15
+Ильичев Игорь Александрович	+7 (989)288 14 88	NULL	NULL	NULL	NULL	NULL	NULL	NULL	353240	Северская	некрасова	57
+Лёвушкин Николай Алексеевич	+7(910) 8894461	NULL	NULL	NULL	NULL	NULL	NULL	NULL	603074	Нижний Новгород	Бурнаковская	79
+Лукина Наталия Юрьевна	89876770349	NULL	NULL	NULL	NULL	NULL	NULL	NULL	428009	Чебоксары	Игнатьева 11-6	6/14
+Малинова Наталья артуровна	+7 9200060020	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606002	Дзержинск	Ульянова	6
+Александров Павел Николаевич	+7(900)2112269	NULL	NULL	NULL	NULL	NULL	NULL	NULL	620081	Екатеринбург	Трубачева	39
+Николай Снегин	+79297233331	NULL	NULL	NULL	NULL	NULL	NULL	NULL	422430	Буинск	РФ, Татарстан,г. Буинск, ул.Гагарина 8	8
+Ковылкина Александра Геннадьевна	+7 (905) 6657350	NULL	NULL	NULL	NULL	NULL	NULL	NULL	606440	Бор	Максима горького	99
+Набатов Рустам	+7 (964) 2855340	NULL	NULL	NULL	NULL	NULL	NULL	NULL	664081	Иркутск	Пискунова	146/2
+Шатров Данила Сергеевич	89643276343	NULL	NULL	NULL	NULL	NULL	NULL	NULL	198328	Санкт-Петербург	Доблести	17
+Малахов Сергей	89645740226	NULL	NULL	NULL	NULL	NULL	NULL	NULL	119361	Москва	озерная	19
+Богданова Сузана	+7(999) 4427433	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111024	Москва	Энтузиастов	17
+Лазарев Дмитрий Сергеевич	+79030260597	NULL	NULL	NULL	NULL	NULL	NULL	NULL	248030	Калуга	Ленина	59
+Советников Александр Викторович	+7 (981) 7992900	NULL	NULL	NULL	NULL	NULL	NULL	NULL	180019	Псков	Труда	43
+Четвериков Ярослав Валериевич	+79807485834	NULL	NULL	NULL	NULL	NULL	NULL	NULL	600000	Владимир	Спасская	4
+Алексеев А Н	89514970689	NULL	NULL	NULL	NULL	NULL	NULL	NULL	346406	Новочеркасск	Овражный	17
+Марданова Лилия Р.	89373313556	NULL	NULL	NULL	NULL	NULL	NULL	NULL	452613	Октябрьский	Ленина	71
+иванкова светлана сергеевна	89610105072	NULL	NULL	NULL	NULL	NULL	NULL	NULL	390013	Рязань	могэс	16
+Мигачев Сергей Иванович	+7 (916) 9929377	NULL	NULL	NULL	NULL	NULL	NULL	NULL	109390	Москва	Малышева	18
+Киселева Галина Вениаминовна	+79268243909	NULL	NULL	NULL	NULL	NULL	NULL	NULL	140100	Раменское	Красноармейска	15
+Tарасов Денис Сергеевич	+79226806559	NULL	NULL	NULL	NULL	NULL	NULL	NULL	427961	Сарапул	Фурманова	7
+Каверина О.А.	89518745925	NULL	NULL	NULL	NULL	NULL	NULL	NULL	379163	Борисоглебск	Суворова	21
+Танаков Артем Владимирович	9053795999	NULL	NULL	NULL	NULL	NULL	NULL	NULL	424000	Йошкар-Ола	Карла либкнехта	63
+Васильев Юрий	9095663571	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173008	Великий Новгород	Большая Санкт-Петербургская	108
+Паняев Антон Сергеевич	89277447804	NULL	NULL	NULL	NULL	NULL	NULL	NULL	443086	Самара	Ново-Садоваz	167
+Ковязина Т.В.	+7 (905) 6971387	NULL	NULL	NULL	NULL	NULL	NULL	NULL	215805	Ярцево	Автозаводская	26
+Коробов Сергей Александрович	8(921)2312233	NULL	NULL	NULL	NULL	NULL	NULL	NULL	160034	Вологда	псковская	5
+магомедрасулов Абубакар Магомедович	+7(964)0031010	NULL	NULL	NULL	NULL	NULL	NULL	NULL	356809	Буденновск	Г Буденновск	7 дом
+Анатолий,	+7 (916) 6592099	NULL	NULL	NULL	NULL	NULL	NULL	NULL	111555	Москва	Молостовых	4
+Сухойван Снежана Игоревна	89242375571	NULL	NULL	NULL	NULL	NULL	NULL	NULL	692525	Уссурийск	кирова	81
+Пахомов Иван Александрович	+7 (922) 4749417	NULL	NULL	NULL	NULL	NULL	NULL	NULL	627140	Заводоуковск	Одеская	21
+Яук Андрей Довыдыч	+79028120734	NULL	NULL	NULL	NULL	NULL	NULL	NULL	627140	Заводоуковск	Одеская	21
+Богодухова Юлия Васильевна	89226273133	NULL	NULL	NULL	NULL	NULL	NULL	NULL	460038	Оренбург	Волгоградская	14
+Ольшуков Виктор Станиславович	+7(908)8286060	NULL	NULL	NULL	NULL	NULL	NULL	NULL	454046	Челябинск	новороссийская	130
+Стригунов Михаил	+7 (4822) 450443	NULL	NULL	NULL	NULL	NULL	NULL	NULL	170001	Тверь	Ногина	10
+Буряк Анастасия Михайловна	89097000213	NULL	NULL	NULL	NULL	NULL	NULL	NULL	623109	Первоуральск	Строителей	31
+Вячеслав Кузьмин	89116486219	NULL	NULL	NULL	NULL	NULL	NULL	NULL	173016	Великий Новгород	германа	28
+Конюхова Ольга Михайловна	+7 (912) 7249766	NULL	NULL	NULL	NULL	NULL	NULL	NULL	613531	Уржум	Дрелевского	56
+рогожников константин.	+7 (912) 8266230	NULL	NULL	NULL	NULL	NULL	NULL	NULL	610046	Киров	Московская	83
+пауков виктор анатольевич	+7(47135) 22348	NULL	NULL	NULL	NULL	NULL	NULL	NULL	306020	Курск	садовая	9
+Плехоа Александр Владимирович	89205617378	NULL	NULL	NULL	NULL	NULL	NULL	NULL	308503	Белгород	50 лет Белгородской области	36
+Халева Анна Владимировна	+79220368639	NULL	NULL	NULL	NULL	NULL	NULL	NULL	622044	Екатеринбург	Первомайская	32
+Раиса (перевозчики г.Альметьевск, РТ)	+7(937)7709674	NULL	NULL	NULL	NULL	NULL	NULL	NULL	423440	Альметьевск	Комарова	7
+Первунинских Андрей Николаевич	+7 (35245) 20434	NULL	NULL	NULL	NULL	NULL	NULL	NULL	641100	Шумиха	Коваленко	9
+Тюрин Антон Сергеевич	+7 (910) 9832073	NULL	NULL	NULL	NULL	NULL	NULL	NULL	153000	Иваново	Багаева	7
+Малышева Лариса Владимировна	9127750559	NULL	NULL	NULL	NULL	NULL	NULL	NULL	456440	Чебаркуль	трудовой	2
+Попов Евгений Васильевич	+7(928) 2514652	NULL	NULL	NULL	NULL	NULL	NULL	NULL	357340	Лермонтов	Волкова	16

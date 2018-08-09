@@ -87,7 +87,7 @@ public class Firm {
     }
     public void fRusUkr() {
         System.out.println("ФИО:\t\t" + name);
-        System.out.println("Телефон:\t\t" + phone);
+        System.out.println("Телефон:\t" + phone);
         System.out.println("Индекс:\t\t" + postindex);
         System.out.println("Нас. п.:\t" + city);
         System.out.println("Улица:\t\t" + street);
@@ -128,7 +128,7 @@ public class Firm {
     }
     public void fKzt(){
         System.out.println("ФИО:\t\t" + name);
-        System.out.println("Телефон:\t\t" + phone);
+        System.out.println("Телефон:\t" + phone);
         System.out.println("ИИН:\t\t" + inn);
         System.out.println("Индекс:\t\t" + postindex);
         System.out.println("Нас. п.:\t" + city);
@@ -148,7 +148,7 @@ public class Firm {
     }
     public void fBel() {
         System.out.println("ФИО:\t\t" + name);
-        System.out.println("Телефон:\t\t" + phone);
+        System.out.println("Телефон:\t" + phone);
         System.out.println("УНП:\t\t" + inn);
         System.out.println("Индекс:\t\t" + postindex);
         System.out.println("Нас. п.:\t" + city);
