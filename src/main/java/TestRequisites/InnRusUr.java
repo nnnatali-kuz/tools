@@ -6,7 +6,7 @@ public class InnRusUr {
         GenRusReq ru = new GenRusReq();
         //System.out.println(ru.innRusIp());
         //System.out.println(ru.innRusUr());
-        //System.out.println(ru.ogrnRusUr());
-        System.out.println(ru.ogrnRusIp());
+        System.out.println(ru.ogrnRusUr());
+//        System.out.println(ru.ogrnRusIp());
     }
 }
