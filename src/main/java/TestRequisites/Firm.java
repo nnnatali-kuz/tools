@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class Firm {
     private String filePath;
-    private String name,phone, inn, ogrn, kpp, rs, bik, bank, ks, postindex, city, street, house;
+    private String name, phone, inn, ogrn, kpp, rs, bik, bank, ks, postindex, city, street, house;
 
     Firm(String p)
     throws IOException {
