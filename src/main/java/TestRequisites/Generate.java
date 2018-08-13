@@ -7,7 +7,7 @@ public class Generate {
     public static void main(String[] args)
             throws IOException
     {
-        int choice=8;
+        int choice=0;
 
         switch (choice)
         {
