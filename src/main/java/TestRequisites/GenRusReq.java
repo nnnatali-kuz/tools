@@ -4,6 +4,22 @@ import java.util.Random;
 
 public class GenRusReq {
 
+    private String inn, ogrn, kpp, bik, rs;
+
+    GenRusReq(int t) {
+        if (t == 0) {   //юр. лицо
+            inn = innRusUr();
+            ogrn = ogrnRusUr();
+        }
+        else {
+            inn = innRusIp();
+            ogrn = ogrnRusIp();
+        }
+        kpp = kppRus();
+        bik = bikRus();
+        rs = rsRus(bik);
+    }
+
     public String innRusUr() {
         int n[] = new int[10];
         Random r = new Random();
@@ -97,6 +113,17 @@ public class GenRusReq {
         return kpp.toString();
     }
 
+    public String bikRus() {
+        int n[] = new int[9];
+        Random r = new Random();
+        StringBuilder bik = new StringBuilder("04");    //Для РФ
+        for (int i = 2; i < n.length; i++) {
+            n[i] = r.nextInt(10);
+            bik.append(n[i]);
+        }
+        return bik.toString();
+    }
+
     public String rsRus(String bik) {
         int n[] = new int[20];
         Random r = new Random();
@@ -105,7 +132,9 @@ public class GenRusReq {
             n[i] = r.nextInt(10);
         }
 
-        int sum = Integer.parseInt(String.valueOf(bik.charAt(6))) * 7 + Integer.parseInt(String.valueOf(bik.charAt(7))) * 1 + Integer.parseInt(String.valueOf(bik.charAt(8))) * 3;
+        int sum = Integer.parseInt(String.valueOf(bik.charAt(6))) * 7
+                + Integer.parseInt(String.valueOf(bik.charAt(7)))
+                + Integer.parseInt(String.valueOf(bik.charAt(8))) * 3;
 
         n[8] = 0;
         for(int i = 0; i < n.length; i++){
@@ -129,14 +158,20 @@ public class GenRusReq {
         return rs.toString();
     }
 
-     public String bikRus() {
-        int n[] = new int[9];
-        Random r = new Random();
-        StringBuilder bik = new StringBuilder("04");    //Для РФ
-        for (int i = 2; i < n.length; i++) {
-            n[i] = r.nextInt(10);
-            bik.append(n[i]);
+    public void getReq(int t) {
+        if (t == 0) {   //юр. лицо
+            System.out.println("ИНН:\t\t" + inn);
+            System.out.println("ОГРН:\t\t" + ogrn);
+            System.out.println("КПП:\t\t" + kpp);
+            System.out.println("Р/с:\t\t" + rs);
+            System.out.println("БИК:\t\t" + bik);
         }
-        return bik.toString();
+        else {
+            System.out.println("ИНН:\t\t" + inn);
+            System.out.println("ОГРНИП:\t\t" + ogrn);
+            System.out.println("КПП:\t\t" + kpp);
+            System.out.println("Р/с:\t\t" + rs);
+            System.out.println("БИК:\t\t" + bik);
+        }
     }
 }
