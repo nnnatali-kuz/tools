@@ -10,25 +10,27 @@ public class GenRusReq {
         if (t == 0) {   //юр. лицо
             inn = innRusUr();
             ogrn = ogrnRusUr();
+            kpp = kppRus();
         }
         else {
-            inn = innRusIp();
+            inn = innRusIp();   //ИП
             ogrn = ogrnRusIp();
         }
-        kpp = kppRus();
         bik = bikRus();
         rs = rsRus(bik);
     }
 
     public String innRusUr() {
         int n[] = new int[10];
+        int m[] = {2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int sum = 0;
         Random r = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
             n[i] = r.nextInt(10);
+            sum += n[i] * m[i];
         }
 
-        int sum = n[0] * 2 + n[1] * 4 + n[2] * 10 + n[3] * 3 + n[4] * 5 + n[5] * 9 + n[6] * 4 + n[7] * 6 + n[8] * 8;
         n[9] = (sum % 11) == 10 ? 0 : sum % 11;
 
         StringBuilder inn = new StringBuilder();
@@ -40,16 +42,20 @@ public class GenRusReq {
 
     public String innRusIp() {
         int n[] = new int[12];
+        int m1[] = {7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int m2[] = {3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int sum1 = 0, sum2 = 0;
         Random r = new Random();
 
         for (int i = 0; i < (n.length - 2); i++) {
             n[i] = r.nextInt(10);
+            sum1 += n[i] * m1[i];
+            sum2 += n[i] * m2[i];
         }
 
-        int sum = n[0] * 7 + n[1] * 2 + n[2] * 4 + n[3] * 10 + n[4] * 3 + n[5] * 5 + n[6] * 9 + n[7] * 4 + n[8] * 6 + n[9] * 8;
-        n[10] = (sum % 11) == 10 ? 0 : sum % 11;
-        sum = n[0] * 3 + n[1] * 7 + n[2] * 2 + n[3] * 4 + n[4] * 10 + n[5] * 3 + n[6] * 5 + n[7] * 9 + n[8] * 4 + n[9] * 6 + n[10] * 8;
-        n[11] = (sum % 11) == 10 ? 0 : sum % 11;
+        n[10] = (sum1 % 11) == 10 ? 0 : sum1 % 11;
+        sum2 += n[10] * m2[10];
+        n[11] = (sum2 % 11) == 10 ? 0 : sum2 % 11;
 
         StringBuilder inn = new StringBuilder();
         for (int i = 0; i < n.length; i++) {
@@ -169,7 +175,6 @@ public class GenRusReq {
         else {
             System.out.println("ИНН:\t\t" + inn);
             System.out.println("ОГРНИП:\t\t" + ogrn);
-            System.out.println("КПП:\t\t" + kpp);
             System.out.println("Р/с:\t\t" + rs);
             System.out.println("БИК:\t\t" + bik);
         }
