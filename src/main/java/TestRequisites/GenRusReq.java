@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class GenRusReq {
 
-    private String inn, ogrn, kpp, bik, rs;
+    private String inn, ogrn, kpp, bik, rs, ks;
 
     GenRusReq(int t) {
         if (t == 0) {   //юр. лицо
@@ -18,6 +18,7 @@ public class GenRusReq {
         }
         bik = bikRus();
         rs = rsRus(bik);
+        ks = ksRus(bik);
     }
 
     public String innRusUr() {
@@ -132,24 +133,22 @@ public class GenRusReq {
 
     public String rsRus(String bik) {
         int n[] = new int[20];
+        int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
         Random r = new Random();
         StringBuilder rs = new StringBuilder();
-        for (int i = 0; i < n.length; i++) {
-            n[i] = r.nextInt(10);
-        }
 
         int sum = Integer.parseInt(String.valueOf(bik.charAt(6))) * 7
                 + Integer.parseInt(String.valueOf(bik.charAt(7)))
                 + Integer.parseInt(String.valueOf(bik.charAt(8))) * 3;
 
-        n[8] = 0;
-        for(int i = 0; i < n.length; i++){
-            if ((i % 3) == 0)
-                sum += n[i]*7;
-            if (((i-1) % 3) == 0)
-                sum += n[i];
-            if (((i-2) % 3) == 0)
-                sum += n[i]*3;
+        for (int i = 0; i < n.length; i++) {
+            if (i != 8) {
+                n[i] = r.nextInt(10);
+            }
+            else {
+                n[i] = 0;
+            }
+            sum += n[i] * m[i];
         }
 
         if ((sum % 100) > 9)
@@ -164,6 +163,42 @@ public class GenRusReq {
         return rs.toString();
     }
 
+    public String ksRus(String bik) {
+        int n[] = new int[20];
+        int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
+        Random r = new Random();
+        StringBuilder ks = new StringBuilder("301");
+
+        n[17] = Integer.parseInt(String.valueOf(bik.charAt(6)));
+        n[18] = Integer.parseInt(String.valueOf(bik.charAt(7)));
+        n[19] = Integer.parseInt(String.valueOf(bik.charAt(8)));
+
+        int sum = n[17] * 3 + n[18] * 7 + n[19] + 3*7 + 3
+                + Integer.parseInt(String.valueOf(bik.charAt(4)))
+                + Integer.parseInt(String.valueOf(bik.charAt(5))) * 3;
+
+        for (int i = 3; i < n.length-3; i++) {
+            if (i != 8) {
+                n[i] = r.nextInt(10);
+            }
+            else {
+                n[i] = 0;
+            }
+            sum += n[i] * m[i];
+        }
+
+        if ((sum % 100) > 9)
+            n[8] = (sum % 100) % 10;
+        else
+            n[8] = sum % 100;
+
+        n[8] = (n[8] * 3) % 10;
+        for (int i = 3; i < n.length; i++) {
+            ks.append(n[i]);
+        }
+        return ks.toString();
+    }
+
     public void getReq(int t) {
         if (t == 0) {   //юр. лицо
             System.out.println("ИНН:\t\t" + inn);
@@ -171,12 +206,14 @@ public class GenRusReq {
             System.out.println("КПП:\t\t" + kpp);
             System.out.println("Р/с:\t\t" + rs);
             System.out.println("БИК:\t\t" + bik);
+            System.out.println("К/с:\t\t" + ks);
         }
         else {
             System.out.println("ИНН:\t\t" + inn);
             System.out.println("ОГРНИП:\t\t" + ogrn);
             System.out.println("Р/с:\t\t" + rs);
             System.out.println("БИК:\t\t" + bik);
+            System.out.println("К/с:\t\t" + ks);
         }
     }
 }
