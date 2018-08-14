@@ -4,24 +4,32 @@ import java.util.Random;
 
 public class GenRusReq {
 
-    private String inn, ogrn, kpp, bik, rs, ks;
+    private String inn, ogrn, kpp, bik, rs, ks, phone;
 
     GenRusReq(int t) {
-        if (t == 0) {   //юр. лицо
-            inn = innRusUr();
-            ogrn = ogrnRusUr();
-            kpp = kppRus();
-        }
-        else {
-            inn = innRusIp();   //ИП
-            ogrn = ogrnRusIp();
+        switch (t) {
+            case 0: {               //юр. лицо
+                inn = innRusUr();
+                ogrn = ogrnRusUr();
+                kpp = kppRus();
+                break;
+            }
+            case 1: {               //ИП
+                inn = innRusIp();
+                ogrn = ogrnRusIp();
+                break;
+            }
+            case 2: {               //физ. лицо
+                phone = phoneRus();
+                break;
+            }
         }
         bik = bikRus();
         rs = rsRus(bik);
         ks = ksRus(bik);
     }
 
-    public String innRusUr() {
+    private String innRusUr() {
         int n[] = new int[10];
         int m[] = {2, 4, 10, 3, 5, 9, 4, 6, 8};
         int sum = 0;
@@ -41,7 +49,7 @@ public class GenRusReq {
         return inn.toString();
     }
 
-    public String innRusIp() {
+    private String innRusIp() {
         int n[] = new int[12];
         int m1[] = {7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
         int m2[] = {3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
@@ -65,7 +73,7 @@ public class GenRusReq {
         return inn.toString();
     }
 
-    public String ogrnRusUr() {
+    private String ogrnRusUr() {
 
         long sum = 0;
         long n[] = new long[13];
@@ -87,7 +95,7 @@ public class GenRusReq {
         return ogrn.toString();
     }
 
-    public String ogrnRusIp() {
+    private String ogrnRusIp() {
 
         long sum = 0;
         long n[] = new long[15];
@@ -109,7 +117,7 @@ public class GenRusReq {
         return ogrn.toString();
     }
 
-    public String kppRus(){
+    private String kppRus(){
         int n[] = new int[9];
         Random r = new Random();
         StringBuilder kpp = new StringBuilder();
@@ -120,7 +128,7 @@ public class GenRusReq {
         return kpp.toString();
     }
 
-    public String bikRus() {
+    private String bikRus() {
         int n[] = new int[9];
         Random r = new Random();
         StringBuilder bik = new StringBuilder("04");    //Для РФ
@@ -131,7 +139,7 @@ public class GenRusReq {
         return bik.toString();
     }
 
-    public String rsRus(String bik) {
+    private String rsRus(String bik) {
         int n[] = new int[20];
         int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
         Random r = new Random();
@@ -163,7 +171,7 @@ public class GenRusReq {
         return rs.toString();
     }
 
-    public String ksRus(String bik) {
+    private String ksRus(String bik) {
         int n[] = new int[20];
         int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
         Random r = new Random();
@@ -199,21 +207,40 @@ public class GenRusReq {
         return ks.toString();
     }
 
-    public void getReq(int t) {
-        if (t == 0) {   //юр. лицо
-            System.out.println("ИНН:\t\t" + inn);
-            System.out.println("ОГРН:\t\t" + ogrn);
-            System.out.println("КПП:\t\t" + kpp);
-            System.out.println("Р/с:\t\t" + rs);
-            System.out.println("БИК:\t\t" + bik);
-            System.out.println("К/с:\t\t" + ks);
+    private String phoneRus() {
+        int n[] = new int[12];
+        Random r = new Random();
+        StringBuilder phone = new StringBuilder("+79");
+        for (int i = 3; i < n.length; i++) {
+            n[i] = r.nextInt(10);
+            phone.append(n[i]);
         }
-        else {
-            System.out.println("ИНН:\t\t" + inn);
-            System.out.println("ОГРНИП:\t\t" + ogrn);
-            System.out.println("Р/с:\t\t" + rs);
-            System.out.println("БИК:\t\t" + bik);
-            System.out.println("К/с:\t\t" + ks);
+        return phone.toString();
+    }
+
+    public void getReq(int t) {
+        switch (t) {
+            case 0: {                                   //юр. лицо
+                System.out.println("ИНН:\t\t" + inn);
+                System.out.println("ОГРН:\t\t" + ogrn);
+                System.out.println("КПП:\t\t" + kpp);
+                System.out.println("Р/с:\t\t" + rs);
+                System.out.println("БИК:\t\t" + bik);
+                System.out.println("К/с:\t\t" + ks);
+                break;
+            }
+            case 1: {                                   //ИП
+                System.out.println("ИНН:\t\t" + inn);
+                System.out.println("ОГРНИП:\t\t" + ogrn);
+                System.out.println("Р/с:\t\t" + rs);
+                System.out.println("БИК:\t\t" + bik);
+                System.out.println("К/с:\t\t" + ks);
+                break;
+            }
+            case 2: {                                   //физ. лицо
+                System.out.println("Телефон:\t\t" + phone);
+                break;
+            }
         }
     }
 }
