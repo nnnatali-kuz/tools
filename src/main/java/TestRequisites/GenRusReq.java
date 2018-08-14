@@ -5,21 +5,22 @@ import java.util.Random;
 public class GenRusReq {
 
     private String inn, ogrn, kpp, bik, rs, ks, phone;
+    public enum Type {UR, IP, FIZ}
 
-    GenRusReq(int t) {
+    GenRusReq(Type t) {
         switch (t) {
-            case 0: {               //юр. лицо
+            case UR: {               //юр. лицо
                 inn = innRusUr();
                 ogrn = ogrnRusUr();
                 kpp = kppRus();
                 break;
             }
-            case 1: {               //ИП
+            case IP: {               //ИП
                 inn = innRusIp();
                 ogrn = ogrnRusIp();
                 break;
             }
-            case 2: {               //физ. лицо
+            case FIZ: {               //физ. лицо
                 phone = phoneRus();
                 break;
             }

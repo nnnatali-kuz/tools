@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Random;
 
 public class Name {
-    public String name;
+    final public String name;
     private String[] typeRus = {"ООО", "ОАО", "ЗАО", "АООТ", "АОЗТ"};
     private String[] typeUkr = {"ОАО", "АОЗТ", "ПАО", "ЧАО"};
     private String[] typeKzt = {"АО", "ТОО"};
@@ -25,6 +25,10 @@ public class Name {
             }
             case 2: {                               //физ. рус.
                 name = getName();
+                break;
+            }
+            default: {
+                name = null;
                 break;
             }
         }
