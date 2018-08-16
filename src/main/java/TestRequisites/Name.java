@@ -6,88 +6,77 @@ import java.io.IOException;
 import java.util.Random;
 
 public class Name {
-    final public String name;
+    private String name, phone;
     private String[] typeRus = {"ООО", "ОАО", "ЗАО", "АООТ", "АОЗТ"};
     private String[] typeUkr = {"ОАО", "АОЗТ", "ПАО", "ЧАО"};
     private String[] typeKzt = {"АО", "ТОО"};
     private String[] typeBel = {"ООО", "ОАО", "ЗАО", "ОДО"};
-    public enum Type {UR, IP, FIZ}
 
-    Name(Type type)
-            throws IOException{
+    Name(int type)
+            throws IOException {
+        Random random = new Random();
         switch (type) {
-            case UR: {                               //юр. лицо рус.
-                name = setTypeRus() + " " + setCompany();
+            case 0: {                               //юр. лицо рус.
+                name = typeRus[random.nextInt(5)] + " " + setName("src\\data\\company.txt");
                 break;
             }
-            case IP: {
-                name = "ИП" + " " + setName();       //ИП рус.
+            case 1: {
+                name = "ИП" + " " + setName("src\\data\\name.txt");       //ИП рус.
                 break;
             }
-            case FIZ: {                               //физ. рус.
-                name = setName();
-                break;
-            }
-            default: {
-                name = null;
+            case 2: {                               //физ. рус.
+                name = setName("src\\data\\name.txt");
+                phone = setPhone();
                 break;
             }
         }
     }
 
-    private String setName()
+    private String setName(String path)
             throws IOException {
-        int i=0;
+        int i = 0;
         String buffer;
-        String [] n = new String[100];
-        Random r = new Random();
+        String[] nameArray = new String[100];
+        Random random = new Random();
 
-        BufferedReader file = new BufferedReader(new FileReader("src\\data\\name.txt"));
+        BufferedReader file = new BufferedReader(new FileReader(path));
 
-        while((buffer = file.readLine())!= null) {
-            n[i] = buffer;
+        while ((buffer = file.readLine()) != null) {
+            nameArray[i] = buffer;
             i++;
         }
 
         file.close();
 
-        return n[r.nextInt(100)];
+        return nameArray[random.nextInt(100)];
     }
 
-    private String setCompany()
-            throws IOException {
-        int i=0;
-        String buffer;
-        String [] n = new String[100];
-        Random r = new Random();
-
-        BufferedReader file = new BufferedReader(new FileReader("src\\data\\company.txt"));
-
-        while((buffer = file.readLine())!= null){
-            n[i] = buffer;
-            i++;
+    private String setPhone() {
+        int n[] = new int[12];
+        Random random = new Random();
+        StringBuilder phone = new StringBuilder("+79");     // Первые цифры номера телефона
+        for (int i = 3; i < n.length; i++) {
+            n[i] = random.nextInt(10);
+            phone.append(n[i]);
         }
-        file.close();
-        return n[r.nextInt(100)];
+        return phone.toString();
     }
 
-    private String setTypeRus(){
-        Random r = new Random();
-        return typeRus[r.nextInt(5)];
-    }
-
-    private String setTypeUkr(){
-        Random r = new Random();
-        return typeUkr[r.nextInt(4)];
-    }
-
-    private String setTypeKzt(){
-        Random r = new Random();
-        return typeKzt[r.nextInt(2)];
-    }
-
-    private String setTypeBel(){
-        Random r = new Random();
-        return typeBel[r.nextInt(4)];
+    public void printName(int type) {
+        switch (type) {
+            case 0: {                                   //юр. лицо
+                System.out.println("Название:\t" + name);
+                break;
+            }
+            case 1: {
+                System.out.println("Название:\t" + name);
+                break;
+            }
+            case 2: {
+                System.out.println("ФИО:\t\t" + name);
+                System.out.println("Телефон:\t" + phone);
+                break;
+            }
+        }
     }
 }

@@ -2,14 +2,13 @@ package TestRequisites;
 
 import java.util.Random;
 
-public class GenRusReq {
+public class RusReq {
 
-    private String inn, ogrn, kpp, bik, rs, ks, phone;
-    public enum Type {UR, IP, FIZ}
+    private String inn, ogrn, kpp, bik, rs, ks;
 
-    GenRusReq(Type type) {
+    RusReq(int type) {
         switch (type) {
-            case UR: {               //юр. лицо
+            case 0: {               //юр. лицо
                 inn = innRusUr();
                 ogrn = ogrnRusUr();
                 kpp = kppRus();
@@ -18,7 +17,7 @@ public class GenRusReq {
                 ks = ksRus(bik);
                 break;
             }
-            case IP: {               //ИП
+            case 1: {               //ИП
                 inn = innRusIp();
                 ogrn = ogrnRusIp();
                 bik = bikRus();
@@ -26,22 +25,18 @@ public class GenRusReq {
                 ks = ksRus(bik);
                 break;
             }
-            case FIZ: {               //физ. лицо
-                phone = phoneRus();
-                break;
-            }
         }
     }
 
     private String innRusUr() {
         int n[] = new int[10];
-        int m[] = {2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int mask[] = {2, 4, 10, 3, 5, 9, 4, 6, 8};
         int sum = 0;
-        Random r = new Random();
+        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
-            n[i] = r.nextInt(10);
-            sum += n[i] * m[i];
+            n[i] = random.nextInt(10);
+            sum += n[i] * mask[i];
         }
 
         n[9] = (sum % 11) == 10 ? 0 : sum % 11;
@@ -55,19 +50,19 @@ public class GenRusReq {
 
     private String innRusIp() {
         int n[] = new int[12];
-        int m1[] = {7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
-        int m2[] = {3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int mask1[] = {7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
+        int mask2[] = {3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
         int sum1 = 0, sum2 = 0;
-        Random r = new Random();
+        Random random = new Random();
 
         for (int i = 0; i < (n.length - 2); i++) {
-            n[i] = r.nextInt(10);
-            sum1 += n[i] * m1[i];
-            sum2 += n[i] * m2[i];
+            n[i] = random.nextInt(10);
+            sum1 += n[i] * mask1[i];
+            sum2 += n[i] * mask2[i];
         }
 
         n[10] = (sum1 % 11) == 10 ? 0 : sum1 % 11;
-        sum2 += n[10] * m2[10];
+        sum2 += n[10] * mask2[10];
         n[11] = (sum2 % 11) == 10 ? 0 : sum2 % 11;
 
         StringBuilder inn = new StringBuilder();
@@ -81,10 +76,10 @@ public class GenRusReq {
 
         long sum = 0;
         long n[] = new long[13];
-        Random r = new Random();
+        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
-            n[i] = r.nextInt(10);
+            n[i] = random.nextInt(10);
             sum += n[i] * Math.pow(10, (11 - i));
         }
         if ((sum % 11) > 9)
@@ -103,10 +98,10 @@ public class GenRusReq {
 
         long sum = 0;
         long n[] = new long[15];
-        Random r = new Random();
+        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
-            n[i] = r.nextInt(10);
+            n[i] = random.nextInt(10);
             sum += n[i] * Math.pow(10, (13 - i));
         }
         if ((sum % 13) > 9)
@@ -123,10 +118,10 @@ public class GenRusReq {
 
     private String kppRus(){
         int n[] = new int[9];
-        Random r = new Random();
+        Random random = new Random();
         StringBuilder kpp = new StringBuilder();
         for (int i = 0; i < n.length; i++) {
-            n[i] = r.nextInt(10);
+            n[i] = random.nextInt(10);
             kpp.append(n[i]);
         }
         return kpp.toString();
@@ -134,10 +129,10 @@ public class GenRusReq {
 
     private String bikRus() {
         int n[] = new int[9];
-        Random r = new Random();
-        StringBuilder bik = new StringBuilder("04");    //Для РФ
+        Random random = new Random();
+        StringBuilder bik = new StringBuilder("04");    //Первые две цифры БИК для РФ
         for (int i = 2; i < n.length; i++) {
-            n[i] = r.nextInt(10);
+            n[i] = random.nextInt(10);
             bik.append(n[i]);
         }
         return bik.toString();
@@ -145,8 +140,8 @@ public class GenRusReq {
 
     private String rsRus(String bik) {
         int n[] = new int[20];
-        int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
-        Random r = new Random();
+        int mask[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
+        Random random = new Random();
         StringBuilder rs = new StringBuilder();
 
         int sum = Integer.parseInt(String.valueOf(bik.charAt(6))) * 7
@@ -155,12 +150,12 @@ public class GenRusReq {
 
         for (int i = 0; i < n.length; i++) {
             if (i != 8) {
-                n[i] = r.nextInt(10);
+                n[i] = random.nextInt(10);
             }
             else {
                 n[i] = 0;
             }
-            sum += n[i] * m[i];
+            sum += n[i] * mask[i];
         }
 
         if ((sum % 100) > 9)
@@ -177,9 +172,9 @@ public class GenRusReq {
 
     private String ksRus(String bik) {
         int n[] = new int[20];
-        int m[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
-        Random r = new Random();
-        StringBuilder ks = new StringBuilder("301");
+        int mask[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
+        Random random = new Random();
+        StringBuilder ks = new StringBuilder("301");        // Первые цифры К/с
 
         n[17] = Integer.parseInt(String.valueOf(bik.charAt(6)));
         n[18] = Integer.parseInt(String.valueOf(bik.charAt(7)));
@@ -191,12 +186,12 @@ public class GenRusReq {
 
         for (int i = 3; i < n.length-3; i++) {
             if (i != 8) {
-                n[i] = r.nextInt(10);
+                n[i] = random.nextInt(10);
             }
             else {
                 n[i] = 0;
             }
-            sum += n[i] * m[i];
+            sum += n[i] * mask[i];
         }
 
         if ((sum % 100) > 9)
@@ -211,20 +206,9 @@ public class GenRusReq {
         return ks.toString();
     }
 
-    private String phoneRus() {
-        int n[] = new int[12];
-        Random r = new Random();
-        StringBuilder phone = new StringBuilder("+79");
-        for (int i = 3; i < n.length; i++) {
-            n[i] = r.nextInt(10);
-            phone.append(n[i]);
-        }
-        return phone.toString();
-    }
-
-    public void getReq(Type type) {
+    public void printReq(int type) {
         switch (type) {
-            case UR: {                                   //юр. лицо
+            case 0: {                                   //юр. лицо
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРН:\t\t" + ogrn);
                 System.out.println("КПП:\t\t" + kpp);
@@ -233,16 +217,12 @@ public class GenRusReq {
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
-            case IP: {                                   //ИП
+            case 1: {                                   //ИП
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРНИП:\t\t" + ogrn);
                 System.out.println("Р/с:\t\t" + rs);
                 System.out.println("БИК:\t\t" + bik);
                 System.out.println("К/с:\t\t" + ks);
-                break;
-            }
-            case FIZ: {                                   //физ. лицо
-                System.out.println("Телефон:\t" + phone);
                 break;
             }
         }
