@@ -4,7 +4,20 @@ import java.util.Random;
 
 public class RusReq {
 
-    private String inn, ogrn, kpp, bik, rs, ks;
+    private String inn, ogrn, kpp, bik, rs, ks, bank;
+    String[] bankPull = {
+            "ПАО Сбербанк",
+            "ПАО ВТБ",
+            "АО Газпромбанк",
+            "АО Россельхозбанк",
+            "АО Альфа-Банк",
+            "ПАО Банк ФК Открытие",
+            "ПАО Промсвязьбанк",
+            "АО Райффайзенбанк",
+            "ПАО Совкомбанк",
+            "ПАО Банк Уралсиб"
+    };
+    Random random = new Random();
 
     RusReq(int type) {
         switch (type) {
@@ -15,6 +28,7 @@ public class RusReq {
                 bik = bikRus();
                 rs = rsRus(bik);
                 ks = ksRus(bik);
+                bank = bankPull [random.nextInt(10)];
                 break;
             }
             case 1: {               //ИП
@@ -23,6 +37,7 @@ public class RusReq {
                 bik = bikRus();
                 rs = rsRus(bik);
                 ks = ksRus(bik);
+                bank = bankPull [random.nextInt(10)];
                 break;
             }
         }
@@ -32,7 +47,6 @@ public class RusReq {
         int n[] = new int[10];
         int mask[] = {2, 4, 10, 3, 5, 9, 4, 6, 8};
         int sum = 0;
-        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
             n[i] = random.nextInt(10);
@@ -53,7 +67,6 @@ public class RusReq {
         int mask1[] = {7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
         int mask2[] = {3, 7, 2, 4, 10, 3, 5, 9, 4, 6, 8};
         int sum1 = 0, sum2 = 0;
-        Random random = new Random();
 
         for (int i = 0; i < (n.length - 2); i++) {
             n[i] = random.nextInt(10);
@@ -76,7 +89,6 @@ public class RusReq {
 
         long sum = 0;
         long n[] = new long[13];
-        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
             n[i] = random.nextInt(10);
@@ -98,7 +110,6 @@ public class RusReq {
 
         long sum = 0;
         long n[] = new long[15];
-        Random random = new Random();
 
         for (int i = 0; i < (n.length - 1); i++) {
             n[i] = random.nextInt(10);
@@ -118,7 +129,6 @@ public class RusReq {
 
     private String kppRus(){
         int n[] = new int[9];
-        Random random = new Random();
         StringBuilder kpp = new StringBuilder();
         for (int i = 0; i < n.length; i++) {
             n[i] = random.nextInt(10);
@@ -129,7 +139,6 @@ public class RusReq {
 
     private String bikRus() {
         int n[] = new int[9];
-        Random random = new Random();
         StringBuilder bik = new StringBuilder("04");    //Первые две цифры БИК для РФ
         for (int i = 2; i < n.length; i++) {
             n[i] = random.nextInt(10);
@@ -141,7 +150,6 @@ public class RusReq {
     private String rsRus(String bik) {
         int n[] = new int[20];
         int mask[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
-        Random random = new Random();
         StringBuilder rs = new StringBuilder();
 
         int sum = Integer.parseInt(String.valueOf(bik.charAt(6))) * 7
@@ -173,7 +181,6 @@ public class RusReq {
     private String ksRus(String bik) {
         int n[] = new int[20];
         int mask[] ={7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1};
-        Random random = new Random();
         StringBuilder ks = new StringBuilder("301");        // Первые цифры К/с
 
         n[17] = Integer.parseInt(String.valueOf(bik.charAt(6)));
@@ -214,6 +221,7 @@ public class RusReq {
                 System.out.println("КПП:\t\t" + kpp);
                 System.out.println("Р/с:\t\t" + rs);
                 System.out.println("БИК:\t\t" + bik);
+                System.out.println("Банк:\t\t" + bank);
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
@@ -222,6 +230,7 @@ public class RusReq {
                 System.out.println("ОГРНИП:\t\t" + ogrn);
                 System.out.println("Р/с:\t\t" + rs);
                 System.out.println("БИК:\t\t" + bik);
+                System.out.println("Банк:\t\t" + bank);
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }

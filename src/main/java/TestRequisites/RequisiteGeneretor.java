@@ -6,7 +6,7 @@ public class RequisiteGeneretor {
     public static void main (String [] args)
             throws IOException {
 
-        int t=1;
+        int t=2;
 
         RusReq payRequisites = new RusReq(t);
         Name name = new Name(t);
