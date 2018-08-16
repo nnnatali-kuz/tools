@@ -7,7 +7,7 @@ public class RequisiteGeneretor {
     public static void main (String [] args)
             throws IOException {
 
-        Type type = Type.RUS_UR;
+        Type type = Type.RUS_IP;
         GenRusReq.Type req;
         Name.Type name;
 
