@@ -1,7 +1,6 @@
 package TestRequisites;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
@@ -18,15 +17,15 @@ public class Name {
             throws IOException{
         switch (type) {
             case UR: {                               //юр. лицо рус.
-                name = getTypeRus() + " " + getCompany();
+                name = setTypeRus() + " " + setCompany();
                 break;
             }
             case IP: {
-                name = "ИП" + " " + getName();       //ИП рус.
+                name = "ИП" + " " + setName();       //ИП рус.
                 break;
             }
             case FIZ: {                               //физ. рус.
-                name = getName();
+                name = setName();
                 break;
             }
             default: {
@@ -36,7 +35,7 @@ public class Name {
         }
     }
 
-    private String getName()
+    private String setName()
             throws IOException {
         int i=0;
         String buffer;
@@ -55,7 +54,7 @@ public class Name {
         return n[r.nextInt(100)];
     }
 
-    private String getCompany()
+    private String setCompany()
             throws IOException {
         int i=0;
         String buffer;
@@ -72,22 +71,22 @@ public class Name {
         return n[r.nextInt(100)];
     }
 
-    private String getTypeRus(){
+    private String setTypeRus(){
         Random r = new Random();
         return typeRus[r.nextInt(5)];
     }
 
-    private String getTypeUkr(){
+    private String setTypeUkr(){
         Random r = new Random();
         return typeUkr[r.nextInt(4)];
     }
 
-    private String getTypeKzt(){
+    private String setTypeKzt(){
         Random r = new Random();
         return typeKzt[r.nextInt(2)];
     }
 
-    private String getTypeBel(){
+    private String setTypeBel(){
         Random r = new Random();
         return typeBel[r.nextInt(4)];
     }

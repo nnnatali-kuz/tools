@@ -13,11 +13,17 @@ public class GenRusReq {
                 inn = innRusUr();
                 ogrn = ogrnRusUr();
                 kpp = kppRus();
+                bik = bikRus();
+                rs = rsRus(bik);
+                ks = ksRus(bik);
                 break;
             }
             case IP: {               //ИП
                 inn = innRusIp();
                 ogrn = ogrnRusIp();
+                bik = bikRus();
+                rs = rsRus(bik);
+                ks = ksRus(bik);
                 break;
             }
             case FIZ: {               //физ. лицо
@@ -25,9 +31,6 @@ public class GenRusReq {
                 break;
             }
         }
-        bik = bikRus();
-        rs = rsRus(bik);
-        ks = ksRus(bik);
     }
 
     private String innRusUr() {
@@ -239,7 +242,7 @@ public class GenRusReq {
                 break;
             }
             case FIZ: {                                   //физ. лицо
-                System.out.println("Телефон:\t\t" + phone);
+                System.out.println("Телефон:\t" + phone);
                 break;
             }
         }
