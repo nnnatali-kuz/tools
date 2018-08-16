@@ -5,7 +5,7 @@ import java.util.Random;
 public class RusReq {
 
     private String inn, ogrn, kpp, bik, rs, ks, bank;
-    String[] bankPull = {
+    private String[] bankPull = {
             "ПАО Сбербанк",
             "ПАО ВТБ",
             "АО Газпромбанк",
@@ -17,7 +17,7 @@ public class RusReq {
             "ПАО Совкомбанк",
             "ПАО Банк Уралсиб"
     };
-    Random random = new Random();
+    private Random random = new Random();
 
     RusReq(int type) {
         switch (type) {
