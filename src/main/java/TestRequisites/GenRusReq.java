@@ -7,8 +7,8 @@ public class GenRusReq {
     private String inn, ogrn, kpp, bik, rs, ks, phone;
     public enum Type {UR, IP, FIZ}
 
-    GenRusReq(Type t) {
-        switch (t) {
+    GenRusReq(Type type) {
+        switch (type) {
             case UR: {               //юр. лицо
                 inn = innRusUr();
                 ogrn = ogrnRusUr();
@@ -219,9 +219,9 @@ public class GenRusReq {
         return phone.toString();
     }
 
-    public void getReq(int t) {
-        switch (t) {
-            case 0: {                                   //юр. лицо
+    public void getReq(Type type) {
+        switch (type) {
+            case UR: {                                   //юр. лицо
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРН:\t\t" + ogrn);
                 System.out.println("КПП:\t\t" + kpp);
@@ -230,7 +230,7 @@ public class GenRusReq {
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
-            case 1: {                                   //ИП
+            case IP: {                                   //ИП
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРНИП:\t\t" + ogrn);
                 System.out.println("Р/с:\t\t" + rs);
@@ -238,7 +238,7 @@ public class GenRusReq {
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
-            case 2: {                                   //физ. лицо
+            case FIZ: {                                   //физ. лицо
                 System.out.println("Телефон:\t\t" + phone);
                 break;
             }

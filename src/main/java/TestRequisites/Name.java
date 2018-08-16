@@ -1,6 +1,7 @@
 package TestRequisites;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
@@ -11,19 +12,20 @@ public class Name {
     private String[] typeUkr = {"ОАО", "АОЗТ", "ПАО", "ЧАО"};
     private String[] typeKzt = {"АО", "ТОО"};
     private String[] typeBel = {"ООО", "ОАО", "ЗАО", "ОДО"};
+    public enum Type {UR, IP, FIZ}
 
-    Name(int type)
+    Name(Type type)
             throws IOException{
         switch (type) {
-            case 0: {                               //юр. лицо рус.
+            case UR: {                               //юр. лицо рус.
                 name = getTypeRus() + " " + getCompany();
                 break;
             }
-            case 1: {
+            case IP: {
                 name = "ИП" + " " + getName();       //ИП рус.
                 break;
             }
-            case 2: {                               //физ. рус.
+            case FIZ: {                               //физ. рус.
                 name = getName();
                 break;
             }
@@ -43,11 +45,13 @@ public class Name {
 
         BufferedReader file = new BufferedReader(new FileReader("src\\data\\name.txt"));
 
-        while((buffer = file.readLine())!= null){
+        while((buffer = file.readLine())!= null) {
             n[i] = buffer;
             i++;
         }
+
         file.close();
+
         return n[r.nextInt(100)];
     }
 
