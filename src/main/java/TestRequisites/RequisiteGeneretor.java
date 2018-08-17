@@ -17,6 +17,6 @@ public class RequisiteGeneretor {
 //        adress.printAdress();
 
         ReqUkr payRequisites = new ReqUkr();
-        System.out.println(payRequisites.generateInn());
+        payRequisites.printReq();
     }
 }

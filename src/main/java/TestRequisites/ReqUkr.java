@@ -1,9 +1,17 @@
 package TestRequisites;
 
+import java.io.IOException;
+
 public class ReqUkr extends Helper {
     private String inn, rs, bik, bank;
 
-    public String generateInn(){
+    ReqUkr ()
+    throws IOException {
+        inn = generateInn();
+        bank = readOneFromFile("src\\data\\bank_ukr.txt");
+    }
+
+    private String generateInn(){
         long sum = 0;
         long buffer[] = new long[8];
         int mask1 [] = {7, 1, 2, 3, 4, 5, 6};
@@ -53,5 +61,13 @@ public class ReqUkr extends Helper {
             inn.append(buffer[i]);
         }
         return inn.toString();
+    }
+
+    public void printReq() {
+
+        System.out.println("ЕДРПОУ:\t\t" + inn);
+//        System.out.println("Р/с:\t\t" + rs);
+//        System.out.println("МФО:\t\t" + bik);
+        System.out.println("Банк:\t\t" + bank);
     }
 }
