@@ -6,14 +6,14 @@ public class RequisiteGeneretor {
     public static void main (String [] args)
             throws IOException {
 
-        int t=0;
+        Type type = Type.IP_RUS;
 
-        RusReq payRequisites = new RusReq(t);
-        Name name = new Name(t);
+        RusReq payRequisites = new RusReq(type);
+        Name name = new Name(type);
         Adress adress = new Adress();
 
-        name.printName(t);
-        payRequisites.printReq(t);
+        name.printName(type);
+        payRequisites.printReq(type);
         adress.printAdress();
     }
 }

@@ -1,54 +1,33 @@
 package TestRequisites;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.Random;
 
-public class Name {
+public class Name extends ReadFromFile {
     private String name, phone;
     private String[] typeRus = {"ООО", "ОАО", "ЗАО", "АООТ", "АОЗТ"};
     private String[] typeUkr = {"ОАО", "АОЗТ", "ПАО", "ЧАО"};
     private String[] typeKzt = {"АО", "ТОО"};
     private String[] typeBel = {"ООО", "ОАО", "ЗАО", "ОДО"};
 
-    Name(int type)
+    Name(Type type)
             throws IOException {
         Random random = new Random();
         switch (type) {
-            case 0: {                               //юр. лицо рус.
-                name = typeRus[random.nextInt(5)] + " " + setName("src\\data\\company.txt");
+            case UR_RUS: {
+                name = typeRus[random.nextInt(typeRus.length)] + " " + readOneFromFile("src\\data\\company_rus.txt");
                 break;
             }
-            case 1: {
-                name = "ИП" + " " + setName("src\\data\\name.txt");       //ИП рус.
+            case IP_RUS: {
+                name = "ИП" + " " + readOneFromFile("src\\data\\name_rus.txt");
                 break;
             }
-            case 2: {                               //физ. рус.
-                name = setName("src\\data\\name.txt");
+            case FIZ_RUS: {
+                name = readOneFromFile("src\\data\\name_rus.txt");
                 phone = setPhone();
                 break;
             }
         }
-    }
-
-    private String setName(String path)
-            throws IOException {
-        int i = 0;
-        String buffer;
-        String[] nameArray = new String[100];
-        Random random = new Random();
-
-        BufferedReader file = new BufferedReader(new FileReader(path));
-
-        while ((buffer = file.readLine()) != null) {
-            nameArray[i] = buffer;
-            i++;
-        }
-
-        file.close();
-
-        return nameArray[random.nextInt(100)];
     }
 
     private String setPhone() {
@@ -62,17 +41,17 @@ public class Name {
         return phone.toString();
     }
 
-    public void printName(int type) {
+    public void printName(Type type) {
         switch (type) {
-            case 0: {                                   //юр. лицо
+            case UR_RUS: {                                   //юр. лицо
                 System.out.println("Название:\t" + name);
                 break;
             }
-            case 1: {
+            case IP_RUS: {
                 System.out.println("Название:\t" + name);
                 break;
             }
-            case 2: {
+            case FIZ_RUS: {
                 System.out.println("ФИО:\t\t" + name);
                 System.out.println("Телефон:\t" + phone);
                 break;

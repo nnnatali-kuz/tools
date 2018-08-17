@@ -19,9 +19,9 @@ public class RusReq {
     };
     private Random random = new Random();
 
-    RusReq(int type) {
+    RusReq(Type type) {
         switch (type) {
-            case 0: {               //юр. лицо
+            case UR_RUS: {               //юр. лицо
                 inn = innRusUr();
                 ogrn = ogrnRusUr();
                 kpp = kppRus();
@@ -31,7 +31,7 @@ public class RusReq {
                 bank = bankPull [random.nextInt(10)];
                 break;
             }
-            case 1: {               //ИП
+            case IP_RUS: {               //ИП
                 inn = innRusIp();
                 ogrn = ogrnRusIp();
                 bik = bikRus();
@@ -213,9 +213,9 @@ public class RusReq {
         return ks.toString();
     }
 
-    public void printReq(int type) {
+    public void printReq(Type type) {
         switch (type) {
-            case 0: {                                   //юр. лицо
+            case UR_RUS: {                                   //юр. лицо
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРН:\t\t" + ogrn);
                 System.out.println("КПП:\t\t" + kpp);
@@ -225,7 +225,7 @@ public class RusReq {
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
-            case 1: {                                   //ИП
+            case IP_RUS: {                                   //ИП
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРНИП:\t\t" + ogrn);
                 System.out.println("Р/с:\t\t" + rs);

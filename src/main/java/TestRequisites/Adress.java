@@ -1,40 +1,18 @@
 package TestRequisites;
 
+import java.io.IOException;
 import java.util.Random;
 
-public class Adress {
-    private String index, city, street, house;
+public class Adress extends ReadFromFile {
+    final private String index, city, street, house;
     private Random random = new Random();
-    private String[] cityPull = {
-            "Москва",
-            "Санкт-Петербург",
-            "Екатеринбург",
-            "Краснодар",
-            "Тюмень",
-            "Казань",
-            "Уфа",
-            "Новосибирск",
-            "Красноярск",
-            "Сочи"
-    };
-    private String[] streetPull = {
-            "Центральная",
-            "Молодежная",
-            "Школьная",
-            "Советская",
-            "Садовая",
-            "Лесная",
-            "Новая",
-            "Ленина",
-            "Мира",
-            "Заречная"
-    };
 
-    Adress() {
+    Adress()
+            throws IOException {
         index = setIndex();
-        city = cityPull[random.nextInt(10)];
-        street = streetPull[random.nextInt(10)];
-        house = new StringBuilder().append(random.nextInt(200)).toString();
+        city = readOneFromFile("src\\data\\city_rus.txt");
+        street = readOneFromFile("src\\data\\street_rus.txt");
+        house = String.valueOf(random.nextInt(200));
     }
 
     private String setIndex() {
@@ -49,7 +27,7 @@ public class Adress {
 
     public void printAdress(){
         System.out.println("Индекс:\t\t" + index);
-        System.out.println("Нас. пункт:\t" + city);
+        System.out.println("Город:\t\t" + city);
         System.out.println("Улица:\t\t" + street);
         System.out.println("Дом:\t\t" + house);
     }
