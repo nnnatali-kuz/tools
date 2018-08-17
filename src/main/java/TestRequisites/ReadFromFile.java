@@ -7,11 +7,12 @@ import java.io.LineNumberReader;
 import java.util.Random;
 
 public abstract class ReadFromFile {
+    public Random random = new Random();
+
     public String readOneFromFile(String path)
             throws IOException {
         int i = 0;
         String buffer;
-        Random random = new Random();
 
         FileReader fileReader = new FileReader(path);
         LineNumberReader lineNumberReader = new LineNumberReader(fileReader);
@@ -35,5 +36,15 @@ public abstract class ReadFromFile {
         file.close();
 
         return bufferArray[random.nextInt(size)];
+    }
+
+    public String generateRandomStringNumber(int size) {
+        int buffer[] = new int[size];
+        StringBuilder stringNumber = new StringBuilder();
+        for (int i = 0; i < buffer.length; i++) {
+            buffer[i] = random.nextInt(10);
+            stringNumber.append(buffer[i]);
+        }
+        return stringNumber.toString();
     }
 }
