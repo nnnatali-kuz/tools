@@ -1,22 +1,13 @@
 package TestRequisites;
 
-public class RusReq extends ReadFromFile {
+import java.io.IOException;
+
+public class RusReq extends Helper {
 
     private String inn, ogrn, kpp, bik, rs, ks, bank;
-    private String[] bankPull = {
-            "ПАО Сбербанк",
-            "ПАО ВТБ",
-            "АО Газпромбанк",
-            "АО Россельхозбанк",
-            "АО Альфа-Банк",
-            "ПАО Банк ФК Открытие",
-            "ПАО Промсвязьбанк",
-            "АО Райффайзенбанк",
-            "ПАО Совкомбанк",
-            "ПАО Банк Уралсиб"
-    };
 
-    RusReq(Type type) {
+    RusReq(Type type)
+            throws IOException {
         switch (type) {
             case RUS_UR: {
                 inn = generateInnRusUr();
@@ -25,7 +16,7 @@ public class RusReq extends ReadFromFile {
                 bik = "04" + generateRandomStringNumber(7);
                 rs = generateRsRus(bik);
                 ks = generateKsRus(bik);
-                bank = bankPull [random.nextInt(10)];
+                bank = readOneFromFile("src\\data\\bank_rus.txt");
                 break;
             }
             case RUS_IP: {
@@ -34,7 +25,7 @@ public class RusReq extends ReadFromFile {
                 bik = "04" + generateRandomStringNumber(7);
                 rs = generateRsRus(bik);
                 ks = generateKsRus(bik);
-                bank = bankPull [random.nextInt(10)];
+                bank = readOneFromFile("src\\data\\bank_rus.txt");
                 break;
             }
         }

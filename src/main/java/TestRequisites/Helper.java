@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.LineNumberReader;
 import java.util.Random;
 
-public abstract class ReadFromFile {
+public abstract class Helper {
     public Random random = new Random();
 
     public String readOneFromFile(String path)

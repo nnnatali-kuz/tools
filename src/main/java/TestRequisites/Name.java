@@ -2,7 +2,7 @@ package TestRequisites;
 
 import java.io.IOException;
 
-public class Name extends ReadFromFile {
+public class Name extends Helper {
     private String name, phone;
     private String[] typeRus = {"ООО", "ОАО", "ЗАО", "АООТ", "АОЗТ"};
     private String[] typeUkr = {"ОАО", "АОЗТ", "ПАО", "ЧАО"};
@@ -13,7 +13,7 @@ public class Name extends ReadFromFile {
             throws IOException {
         switch (type) {
             case RUS_UR: {
-                name = typeRus[random.nextInt(typeRus.length)] + " " + readOneFromFile("src\\data\\company_rus.txt");
+                name = typeRus[random.nextInt(typeRus.length)] + " " + readOneFromFile("src\\data\\company.txt");
                 break;
             }
             case RUS_IP: {
