@@ -2,13 +2,15 @@ package TestRequisites;
 
 import java.io.IOException;
 
-public class ReqUkr extends Helper {
+public class UkrReq extends Helper {
     private String inn, rs, bik, bank;
 
-    ReqUkr ()
+    UkrReq(Type type)
     throws IOException {
-        inn = generateInn();
-        bank = readOneFromFile("src\\data\\bank_ukr.txt");
+        if (type != Type.FIZ) {
+            inn = generateInn();
+            bank = readOneFromFile("src\\data\\bank_ukr.txt");
+        }
     }
 
     private String generateInn(){
@@ -63,11 +65,13 @@ public class ReqUkr extends Helper {
         return inn.toString();
     }
 
-    public void printReq() {
+    public void printReq(Type type) {
 
-        System.out.println("ЕДРПОУ:\t\t" + inn);
+        if (type != Type.FIZ) {
+            System.out.println("ЕДРПОУ:\t\t" + inn);
 //        System.out.println("Р/с:\t\t" + rs);
 //        System.out.println("МФО:\t\t" + bik);
-        System.out.println("Банк:\t\t" + bank);
+            System.out.println("Банк:\t\t" + bank);
+        }
     }
 }

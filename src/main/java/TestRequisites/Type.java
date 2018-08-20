@@ -1,3 +1,3 @@
 package TestRequisites;
 
-public enum Type {RUS_UR, RUS_IP, RUS_FIZ}
+public enum Type {UR, IP, FIZ}

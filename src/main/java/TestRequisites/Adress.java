@@ -3,14 +3,24 @@ package TestRequisites;
 import java.io.IOException;
 
 public class Adress extends Helper {
-    final private String index, city, street, house;
+    private String index, city, street, house;
 
-    Adress()
+    Adress(Country country)
             throws IOException {
         index = generateRandomStringNumber(6);
-        city = readOneFromFile("src\\data\\city_rus.txt");
         street = readOneFromFile("src\\data\\street.txt");
         house = String.valueOf(random.nextInt(200));
+
+        switch (country) {
+            case RUS: {
+                city = readOneFromFile("src\\data\\city_rus.txt");
+                break;
+            }
+            case UKR: {
+                city = readOneFromFile("src\\data\\city_ukr.txt");
+                break;
+            }
+        }
     }
 
     public void printAdress(){

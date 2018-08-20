@@ -9,7 +9,7 @@ public class RusReq extends Helper {
     RusReq(Type type)
             throws IOException {
         switch (type) {
-            case RUS_UR: {
+            case UR: {
                 inn = generateInnRusUr();
                 ogrn = generateOgrnRusUr();
                 kpp = generateRandomStringNumber(9);
@@ -19,7 +19,7 @@ public class RusReq extends Helper {
                 bank = readOneFromFile("src\\data\\bank_rus.txt");
                 break;
             }
-            case RUS_IP: {
+            case IP: {
                 inn = generateInnRusIp();
                 ogrn = generateOgrnRusIp();
                 bik = "04" + generateRandomStringNumber(7);
@@ -183,7 +183,7 @@ public class RusReq extends Helper {
 
     public void printReq(Type type) {
         switch (type) {
-            case RUS_UR: {                                   //юр. лицо
+            case UR: {                                   //юр. лицо
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРН:\t\t" + ogrn);
                 System.out.println("КПП:\t\t" + kpp);
@@ -193,7 +193,7 @@ public class RusReq extends Helper {
                 System.out.println("К/с:\t\t" + ks);
                 break;
             }
-            case RUS_IP: {                                   //ИП
+            case IP: {                                   //ИП
                 System.out.println("ИНН:\t\t" + inn);
                 System.out.println("ОГРНИП:\t\t" + ogrn);
                 System.out.println("Р/с:\t\t" + rs);

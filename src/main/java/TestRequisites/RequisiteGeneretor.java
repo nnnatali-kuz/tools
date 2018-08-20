@@ -6,17 +6,27 @@ public class RequisiteGeneretor {
     public static void main (String [] args)
             throws IOException {
 
-//        Type type = Type.RUS_UR;
-//
-//        RusReq payRequisites = new RusReq(type);
-//        Name name = new Name(type);
-//        Adress adress = new Adress();
-//
-//        name.printName(type);
-//        payRequisites.printReq(type);
-//        adress.printAdress();
+        Country country = Country.RUS;
+        Type type = Type.UR;
 
-        ReqUkr payRequisites = new ReqUkr();
-        payRequisites.printReq();
+        Name name = new Name(country, type);
+        Adress adress = new Adress(country);
+
+        name.printName(type);
+
+        switch (country) {
+            case RUS: {
+                RusReq payRequisites = new RusReq(type);
+                payRequisites.printReq(type);
+                break;
+            }
+            case UKR: {
+                UkrReq payRequisites = new UkrReq(type);
+                payRequisites.printReq(type);
+                break;
+            }
+        }
+
+        adress.printAdress();
     }
 }

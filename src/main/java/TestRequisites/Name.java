@@ -9,20 +9,43 @@ public class Name extends Helper {
     private String[] typeKzt = {"АО", "ТОО"};
     private String[] typeBel = {"ООО", "ОАО", "ЗАО", "ОДО"};
 
-    Name(Type type)
+    Name( Country country, Type type)
             throws IOException {
-        switch (type) {
-            case RUS_UR: {
-                name = typeRus[random.nextInt(typeRus.length)] + " " + readOneFromFile("src\\data\\company.txt");
+        switch (country) {
+            case RUS: {
+                switch (type) {
+                    case UR: {
+                        name = typeRus[random.nextInt(typeRus.length)] + " " + readOneFromFile("src\\data\\company.txt");
+                        break;
+                    }
+                    case IP: {
+                        name = "ИП" + " " + readOneFromFile("src\\data\\name_rus.txt");
+                        break;
+                    }
+                    case FIZ: {
+                        name = readOneFromFile("src\\data\\name_rus.txt");
+                        phone = "+79" + generateRandomStringNumber(9);
+                        break;
+                    }
+                }
                 break;
             }
-            case RUS_IP: {
-                name = "ИП" + " " + readOneFromFile("src\\data\\name_rus.txt");
-                break;
-            }
-            case RUS_FIZ: {
-                name = readOneFromFile("src\\data\\name_rus.txt");
-                phone = "+79" + generateRandomStringNumber(9);
+            case UKR: {
+                switch (type) {
+                    case UR: {
+                        name = typeUkr[random.nextInt(typeUkr.length)] + " " + readOneFromFile("src\\data\\company.txt");
+                        break;
+                    }
+                    case IP: {
+                        name = "ИП" + " " + readOneFromFile("src\\data\\name_ukr.txt");
+                        break;
+                    }
+                    case FIZ: {
+                        name = readOneFromFile("src\\data\\name_ukr.txt");
+                        phone = "+380" + generateRandomStringNumber(9);
+                        break;
+                    }
+                }
                 break;
             }
         }
@@ -30,15 +53,15 @@ public class Name extends Helper {
 
     public void printName(Type type) {
         switch (type) {
-            case RUS_UR: {                                   //юр. лицо
+            case UR: {
                 System.out.println("Название:\t" + name);
                 break;
             }
-            case RUS_IP: {
+            case IP: {
                 System.out.println("Название:\t" + name);
                 break;
             }
-            case RUS_FIZ: {
+            case FIZ: {
                 System.out.println("ФИО:\t\t" + name);
                 System.out.println("Телефон:\t" + phone);
                 break;
