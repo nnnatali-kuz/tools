@@ -38,7 +38,7 @@ public abstract class Helper {
         return bufferArray[random.nextInt(size)];
     }
 
-    public String generateRandomStringNumber(int size) {
+    public String generateRandomNumberString(int size) {
         int buffer[] = new int[size];
         StringBuilder stringNumber = new StringBuilder();
         for (int i = 0; i < buffer.length; i++) {

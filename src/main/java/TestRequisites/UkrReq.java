@@ -10,6 +10,8 @@ public class UkrReq extends Helper {
         if (type != Type.FIZ) {
             inn = generateInn();
             bank = readOneFromFile("src\\data\\bank_ukr.txt");
+            rs = "2600" + generateRandomNumberString(10);           //надо переписать по алгоритму расчета контрольного числа
+            bik = readOneFromFile("src\\data\\bik_ukr.txt");
         }
     }
 
@@ -69,8 +71,8 @@ public class UkrReq extends Helper {
 
         if (type != Type.FIZ) {
             System.out.println("ЕДРПОУ:\t\t" + inn);
-//        System.out.println("Р/с:\t\t" + rs);
-//        System.out.println("МФО:\t\t" + bik);
+            System.out.println("Р/с:\t\t" + rs);
+            System.out.println("МФО:\t\t" + bik);
             System.out.println("Банк:\t\t" + bank);
         }
     }

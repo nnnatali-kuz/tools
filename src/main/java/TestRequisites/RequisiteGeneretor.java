@@ -6,7 +6,7 @@ public class RequisiteGeneretor {
     public static void main (String [] args)
             throws IOException {
 
-        Country country = Country.RUS;
+        Country country = Country.UKR;
         Type type = Type.UR;
 
         Name name = new Name(country, type);

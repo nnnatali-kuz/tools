@@ -24,7 +24,7 @@ public class Name extends Helper {
                     }
                     case FIZ: {
                         name = readOneFromFile("src\\data\\name_rus.txt");
-                        phone = "+79" + generateRandomStringNumber(9);
+                        phone = "+79" + generateRandomNumberString(9);
                         break;
                     }
                 }
@@ -42,7 +42,7 @@ public class Name extends Helper {
                     }
                     case FIZ: {
                         name = readOneFromFile("src\\data\\name_ukr.txt");
-                        phone = "+380" + generateRandomStringNumber(9);
+                        phone = "+380" + generateRandomNumberString(9);
                         break;
                     }
                 }

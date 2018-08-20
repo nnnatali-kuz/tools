@@ -12,8 +12,8 @@ public class RusReq extends Helper {
             case UR: {
                 inn = generateInnRusUr();
                 ogrn = generateOgrnRusUr();
-                kpp = generateRandomStringNumber(9);
-                bik = "04" + generateRandomStringNumber(7);
+                kpp = generateRandomNumberString(9);
+                bik = "04" + generateRandomNumberString(7);
                 rs = generateRsRus(bik);
                 ks = generateKsRus(bik);
                 bank = readOneFromFile("src\\data\\bank_rus.txt");
@@ -22,7 +22,7 @@ public class RusReq extends Helper {
             case IP: {
                 inn = generateInnRusIp();
                 ogrn = generateOgrnRusIp();
-                bik = "04" + generateRandomStringNumber(7);
+                bik = "04" + generateRandomNumberString(7);
                 rs = generateRsRus(bik);
                 ks = generateKsRus(bik);
                 bank = readOneFromFile("src\\data\\bank_rus.txt");

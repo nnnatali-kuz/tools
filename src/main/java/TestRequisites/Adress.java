@@ -7,7 +7,7 @@ public class Adress extends Helper {
 
     Adress(Country country)
             throws IOException {
-        index = generateRandomStringNumber(6);
+        index = generateRandomNumberString(6);
         street = readOneFromFile("src\\data\\street.txt");
         house = String.valueOf(random.nextInt(200));
 
