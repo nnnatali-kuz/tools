@@ -77,3 +77,13 @@ public class UkrReq extends Helper {
         }
     }
 }
+
+// если представить МФО как "ABCDEx", то алгоритм вроде будет такой:
+//
+//x=младший разряд от ((A+B*3+C*7+D+E*3)*7)
+
+//IF "0" == SUBSTR(STR(VAL(SUBSTR(cStr, 1, 1)) + VAL(SUBSTR(STR(VAL(;
+//SUBSTR(cStr, 2, 1)) * 3, 2), 2, 1)) + VAL(SUBSTR(STR(VAL(SUBSTR(;
+//cStr, 3, 1)) * 7, 2), 2, 1)) + VAL(SUBSTR(cStr, 4, 1)) + VAL(;
+//SUBSTR(STR(VAL(SUBSTR(cStr, 5, 1)) * 3, 2), 2, 1)) + VAL(SUBSTR(;
+//STR(VAL(SUBSTR(cStr, 6, 1)) * 7, 2), 2, 1)), 2), 2, 1)
