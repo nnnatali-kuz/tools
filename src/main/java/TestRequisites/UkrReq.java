@@ -10,8 +10,8 @@ public class UkrReq extends Helper {
         if (type != Type.FIZ) {
             inn = generateInn();
             bank = readOneFromFile("src\\data\\bank_ukr.txt");
-            rs = "2600" + generateRandomNumberString(10);           //надо переписать по алгоритму расчета контрольного числа
-            bik = readOneFromFile("src\\data\\bik_ukr.txt");
+            bik = generateBik();
+            rs = generateRs(bik);
         }
     }
 
@@ -38,33 +38,84 @@ public class UkrReq extends Helper {
             }
             else {
                 sum = 0;
-                for (int i = 0; i < (buffer.length) - 1; i++) {
-                    sum += buffer[i] * mask3[i];
-                }
-                buffer [7] = sum % 11;
-            }
+        for (int i = 0; i < (buffer.length) - 1; i++) {
+            sum += buffer[i] * mask3[i];
         }
+        buffer [7] = sum % 11;
+    }
+}
         else {
-            sum = 0;
-            for (int i = 0; i < (buffer.length) - 1; i++) {
-                sum += buffer[i] * mask2[i];
-            }
-            if ((sum % 11) < 10){
-                buffer[7] = sum % 11;
-            }
-            else {
                 sum = 0;
                 for (int i = 0; i < (buffer.length) - 1; i++) {
-                    sum += buffer[i] * mask4[i];
-                }
-                buffer [7] = sum % 11;
-            }
+        sum += buffer[i] * mask2[i];
         }
+        if ((sum % 11) < 10){
+        buffer[7] = sum % 11;
+        }
+        else {
+        sum = 0;
+        for (int i = 0; i < (buffer.length) - 1; i++) {
+        sum += buffer[i] * mask4[i];
+        }
+        buffer [7] = sum % 11;
+        }
+        }
+        StringBuilder inn = new StringBuilder();
+        for (int i = 0; i < buffer.length; i++) {
+        inn.append(buffer[i]);
+        }
+        return inn.toString();
+    }
+
+    private String generateBik(){
+        int buffer[] = new int[6];
+        int mask[] = {1, 3, 7, 1, 3, 7};
+        int sum = 0;
+
+        for (int i = 0; i < (buffer.length - 1); i++) {
+            buffer[i] = random.nextInt(10);
+            sum += buffer[i] * mask[i];
+        }
+
+        buffer[5] = ((sum % 10) * 7) % 10;
         StringBuilder inn = new StringBuilder();
         for (int i = 0; i < buffer.length; i++) {
             inn.append(buffer[i]);
         }
         return inn.toString();
+    }
+
+    private String generateRs(String bik){
+        int buffer [] = new int[14];
+        int maskBik[] = {1, 3, 7, 1, 3};
+        int mask[] = {3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7, 1, 3, 7};
+        int sum = 0;
+
+        buffer[0] = 2;
+        buffer[1] = 6;
+        buffer[2] = buffer[3] = 0;
+
+        StringBuilder rs = new StringBuilder();
+
+        for (int i = 0; i < bik.length() - 1; i++) {
+            sum += ((Integer.parseInt(String.valueOf(bik.charAt(i))) * maskBik[i]) % 10);
+        }
+
+        for (int i = 0; i < 4; i++) {
+            sum += (buffer[i] * mask[i]) % 10;
+        }
+
+        for (int i = 5; i < buffer.length; i++) {
+            buffer[i] = random.nextInt(10);
+            sum += (buffer[i] * mask[i]) % 10;
+        }
+
+        buffer[4] = (((sum + 14) % 10) * 7) % 10;
+
+        for (int i = 0; i < buffer.length; i++) {
+            rs.append(buffer[i]);
+        }
+        return rs.toString();
     }
 
     public void printReq(Type type) {
@@ -78,12 +129,3 @@ public class UkrReq extends Helper {
     }
 }
 
-// если представить МФО как "ABCDEx", то алгоритм вроде будет такой:
-//
-//x=младший разряд от ((A+B*3+C*7+D+E*3)*7)
-
-//IF "0" == SUBSTR(STR(VAL(SUBSTR(cStr, 1, 1)) + VAL(SUBSTR(STR(VAL(;
-//SUBSTR(cStr, 2, 1)) * 3, 2), 2, 1)) + VAL(SUBSTR(STR(VAL(SUBSTR(;
-//cStr, 3, 1)) * 7, 2), 2, 1)) + VAL(SUBSTR(cStr, 4, 1)) + VAL(;
-//SUBSTR(STR(VAL(SUBSTR(cStr, 5, 1)) * 3, 2), 2, 1)) + VAL(SUBSTR(;
-//STR(VAL(SUBSTR(cStr, 6, 1)) * 7, 2), 2, 1)), 2), 2, 1)
